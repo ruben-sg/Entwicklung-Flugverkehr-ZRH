@@ -1,0 +1,256 @@
+,Flughafen,Ort
+0,Munich International Airport,München
+1,Paderborn/Lippstadt,Paderborn
+2,Ljubljana,Ljubljana
+3,Vienna International,Wien
+4,Athens,Athen
+5,Rhodes,Rhodos
+6,Thessaloniki,Thessaloniki
+7,Irakleion,Irakleion
+8,Athens (GR),Athen
+9,Mykonos,Mykonos
+10,Dublin,Dublin
+11,Dublin (IE),Dublin
+12,Moscow Sheremetyevo International Apt,Moskau
+13,Riga,Riga
+14,Catania,Catania
+15,Faro,Faro
+16,Brindisi,Brindisi
+17,Gran Canaria,Gran Canaria
+18,Olbia,Olbia
+19,Reykjavik Keflavik International Apt,Rejkjavik
+20,Palma de Mallorca,Palma De Mallorca
+21,Berlin Tegel Apt,Berlin
+22,Fuerteventura,Fuerteventura
+23,Funchal,Funchal
+24,Westerland,Westerland
+25,Duesseldorf International Airport,Düsseldorf
+26,Lamezia Terme,Lamezia Terme
+27,Santa Cruz de la Palma,Santa Cruz de la Palma
+28,Tenerife Sur Apt,Teneriffa
+29,Alicante Airport,Alicante
+30,Lanzarote,Lanzarote
+31,Hurghada,Hurghada
+32,Toronto Lester B Pearson Intl,Toronto
+33,Vancouver International Apt,Vancouver
+34,Beijing Capital Intl Apt,Peking
+35,Madrid Adolfo Suarez-Barajas Apt,Madrid
+36,Paris Charles de Gaulle Apt,Paris
+37,Malta,Malta
+38,Amsterdam,Amsterdam
+39,Prague Ruzyne,Prag
+40,"Belgrade, Nikola Tesla",Belgrad
+41,Belgrade,Belgrad
+42,Rome Fiumicino Apt,Rom
+43,Sendai,Sendai
+44,Tokyo Narita Intl,Tokio
+45,New York J F Kennedy International Apt,New York
+46,Philadelphia International Apt,Philadelphia
+47,Antalya,Antalya
+48,Istanbul Ataturk Airport,Istanbul
+49,Bogota,Bogota
+50,Riyadh King Khalid Intl,Riad
+51,Baku Heydar Aliyev International Apt,Baku
+52,Pristina,Pristina
+53,Marsa Alam,Marsa Alam
+54,Skopje,Skopje
+55,Varna,Varna
+56,London City Apt,London
+57,London Heathrow Apt,London
+58,Frankfurt International Apt,Frankfurt
+59,Berlin Brandenburg Apt,Berlin
+60,Sofia,Sofia
+61,Hong Kong International Apt,Hong Kong
+62,Larnaca,Larnaca
+63,Ohrid,Ohrid
+64,Podgorica,Podgorica
+65,Pristina International,Pristina
+66,Split,Split
+67,Zadar,Zadar
+68,Beirut,Beirut
+69,Ibiza,Ibiza
+70,Sharm El-Sheikh,Sharm El-Sheikh
+71,Burgas,Burgas
+72,Calvi,Calvi
+73,Kos,Kos
+74,Djerba,Djerba
+75,Kerkyra,Kerkyra
+76,Jerez,Jerez
+77,Geneva,Genf
+78,Izmir Adnan Menderes Apt,Izmir
+79,Katowice,Katowice
+80,Cologne/Bonn Apt,Köln
+81,Dubrovnik,Dubrovnik
+82,Zagreb,Zagreb
+83,Pula,Pula
+84,Atlanta Hartsfield-jackson Intl Apt,Atlanta
+85,Lisbon,Lissabon
+86,London Luton Apt,London
+87,Venice Marco Polo Apt,Venedig
+88,Berlin Schoenefeld Apt,Berlin
+89,London Gatwick Apt,London
+90,Naples Capodichino Apt,Neapel
+91,Porto,Porto
+92,Hamburg Airport,Hamburg
+93,Nice,Nizza
+94,Barcelona Apt,Barcelona
+95,Palermo,Palermo
+96,Cagliari,Cagliari
+97,Cancun,Cancun
+98,Edinburgh,Edinburgh
+99,Figari,Figari
+100,Kalamata,Kalamata
+101,Kilimanjaro,Kilimanjaro
+102,Mahe Island,Mahe
+103,Male,Male
+104,Mauritius,Mauritius
+105,Menorca,Menorca
+106,Ovda,Ovda
+107,Paphos,Paphos
+108,Phuket,Phuket
+109,Preveza/Lefkada,Preveza
+110,Samos,Samos
+111,Sevilla Airport,Sevilla
+112,Tirana,Tirana
+113,Tromso,Tromso
+114,Bandaranaike Intl,Bandaranaike
+115,Calgary,Calgary
+116,Cape Town,Kapstadt
+117,Dalaman,Dalaman
+118,Denver Intl Apt,Denver
+119,Havana,Havana
+120,Ho Chi Minh City,Ho Chi Minh Stadt
+121,Inverness,Inverness
+122,Juan G Gomez Intl,Varadero
+123,Orlando International Apt,Orlando
+124,Punta Cana,Punta Cana
+125,Rio de Janeiro Galeao-A.C.Jobim Int Apt,Rio de Janeiro
+126,Santiago de Compostela,Santiago de Compostela
+127,Tampa International Apt,Tampa
+128,Zakinthos Island,Zakinthos
+129,Zurich Airport,Zürich
+130,Buenos Aires Ministro Pistarini,Buenos Aires
+131,Chania,Chania
+132,Guanacaste,Guanacaste
+133,Las Vegas McCarran International Apt,Las Vegas
+134,Bodrum Milas Airport,Bodrum
+135,Marrakech,Marrakesch
+136,Muscat,Muskat
+137,San Diego International,San Diego
+138,San Jose Juan Santamaria Apt,San Jose
+139,Thira,Thira
+140,Puerto Plata,Puerto Plata
+141,Skiathos,Skiathos
+142,Tivat,Tivat
+143,Agadir,Agadir
+144,Sal Island,Sal
+145,Luxor,Luxor
+146,Zanzibar,Sansibar
+147,Cairo International,Kairo
+148,Tel Aviv-yafo Ben Gurion International,Tel Aviv
+149,Dubai International,Dubai
+150,Abu Dhabi International Apt,Abu Dhabi
+151,Helsinki-Vantaa,Helsinki
+152,Kittila,Kittila
+153,Brussels Airport,Brüssel
+154,Linz Blue Danube,Linz
+155,Luxembourg,Luxenburg
+156,Milan Linate Apt,Mailand
+157,Paris Le Bourget Apt,Paris
+158,Guernsey,Guernsey
+159,Genoa,Genua
+160,Jersey,Jersey
+161,Tbilisi,Tiflis
+162,Lourdes/Tarbes,Lourdes
+163,Leipzig/Halle,Leipzig
+164,Rostock,Rostock
+165,Manchester (GB),Manchester
+166,Hannover,Hannover
+167,Nis,Nis
+168,Ankara Esenboga Apt,Ankara
+169,Bilbao,Bilbao
+170,Lviv,Lwiw
+171,Vilnius,Vilnius
+172,Rovaniemi,Rovaniemi
+173,Shenzhen,Shenzhen
+174,Shannon,Shannon
+175,Brac,Brac
+176,Florence Peretola Apt,Florenz
+177,Kuusamo,Kuusamo
+178,Bordeaux Merignac Apt,Bordeaux
+179,Seoul Incheon International Airport,Seoul
+180,Warsaw Frederic Chopin,Warschau
+181,Bremen,Bremen
+182,Dresden,Dresden
+183,Istanbul Airport,Istanbul
+184,Istanbul Sabiha Gokcen Apt,Istanbul
+185,Doha,Doha
+186,Doha (QA) 00,Doha
+187,Casablanca Mohammed V Apt,Casablanca
+188,Strasbourg,Strassburg
+189,Amman Queen Alia International Apt,Amman
+190,Khartoum,Khartum
+191,Stockholm Arlanda Apt,Stockholm
+192,Copenhagen Kastrup Apt,Kopenhagen
+193,Oslo Gardermoen Airport,Oslo
+194,Jeddah,Jeddah
+195,Singapore Changi Apt,Singapur
+196,Elba Island,Elba
+197,Kiev Borispol Intl Apt,Kiew
+198,Geneva International,Genf
+199,Gaziantep,Gaziantep
+200,Bangkok Suvarnabhumi International Apt,Bangkok
+201,Bergen,Bergen
+202,Bucharest Henri Coanda Apt,Bukarest
+203,Cairo,Kairo
+204,Kyiv Borispol Intl Apt,Kiew
+205,Lyon St-exupery Apt,Lyon
+206,Malaga Airport,Malaga
+207,Milan Malpensa Apt,Mailand
+208,Newark Liberty International Apt,Newark
+209,"Nuremberg, Nuremberg",Nürnberg
+210,Rostov,Rostov
+211,Sao Paulo Guarulhos Intl Apt,Sao Paulo
+212,Shanghai Pudong International Apt,Shanghai
+213,Sion,Sion
+214,Bari,Bari
+215,Billund,Billund
+216,Birmingham Airport,Birmingham
+217,Boston Edward L Logan Intl Apt,Boston
+218,Budapest,Budapest
+219,Chisinau,Chisinau
+220,Cork,Cork
+221,Gdansk Lech Walesa,Gdansk
+222,Graz,Graz
+223,Johannesburg O.r. Tambo International,Johannesburg
+224,Krakow John Paul II - Balice,Krakau
+225,Lugano,Lugano
+226,Miami International Apt,Miami
+227,Montreal Pierre Elliott Trudeau Int Apt,Montreal
+228,Mumbai,Mumbai
+229,Sarajevo,Sarajevo
+230,St Petersburg Pulkovo Apt,St. Petersburg
+231,Tallinn,Tallinn
+232,Wroclaw,Wroclaw
+233,Goteborg Landvetter Apt,Göteborg
+234,Heringsdorf,Heringsdorf
+235,Los Angeles International Apt,Los Angeles
+236,Malta (MT),Malta
+237,Marseille Provence Apt,Marseille
+238,San Francisco,San Francisco
+239,Chicago O'Hare International Apt,Chicago
+240,Delhi,Delhi
+241,Moscow Domodedovo Apt,Moskau
+242,Nairobi Jomo Kenyatta International Apt,Nairobi
+243,Stuttgart Airport,Stuttgart
+244,Valencia Airport,Valencia
+245,Dar Es Salaam,Dar Es Salaam
+246,Osaka Kansai International Airport,Osaka
+247,Samara,Samara
+248,Santiago (CL),Santiago
+249,Wuhan,Wuhan
+250,Patrai,Patrai
+251,Tunis,Tunis
+252,Washington Dulles International Apt,Washington
+253,Hanoi,Hanoi
+254,Antwerp,Antwerpen

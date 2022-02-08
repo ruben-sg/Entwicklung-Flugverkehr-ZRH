@@ -1,0 +1,1529 @@
+,Carrier Name,Ort,Time series,Seats (Total),Frequency
+0,Adria Airways,Ljubljana,2017,78684,974
+1,Adria Airways,Ljubljana,2018,82556,993
+2,Adria Airways,Ljubljana,2019,59703,741
+3,Adria Airways,München,2018,859,8
+4,Adria Airways,München,2019,229,2
+5,Adria Airways,Paderborn,2018,5169,81
+6,Adria Airways,Paderborn,2019,3933,57
+7,Adria Airways,Wien,2019,67,1
+8,Aegean Airlines,Athen,2017,63957,367
+9,Aegean Airlines,Athen,2018,66342,367
+10,Aegean Airlines,Athen,2019,78692,433
+11,Aegean Airlines,Athen,2020,51557,283
+12,Aegean Airlines,Athen,2021,58407,298
+13,Aegean Airlines,Irakleion,2017,13050,75
+14,Aegean Airlines,Irakleion,2018,12180,70
+15,Aegean Airlines,Irakleion,2019,13920,80
+16,Aegean Airlines,Irakleion,2020,3640,20
+17,Aegean Airlines,Irakleion,2021,14931,81
+18,Aegean Airlines,Mykonos,2021,2190,15
+19,Aegean Airlines,Rhodos,2017,8004,46
+20,Aegean Airlines,Rhodos,2018,7830,45
+21,Aegean Airlines,Rhodos,2019,9048,52
+22,Aegean Airlines,Rhodos,2020,2262,13
+23,Aegean Airlines,Rhodos,2021,5916,34
+24,Aegean Airlines,Thessaloniki,2020,348,2
+25,Aegean Airlines,Thessaloniki,2021,13224,76
+26,Aer Lingus,Dublin,2017,66720,389
+27,Aer Lingus,Dublin,2018,88566,509
+28,Aer Lingus,Dublin,2019,88032,508
+29,Aer Lingus,Dublin,2020,23392,136
+30,Aer Lingus,Dublin,2021,8084,47
+31,Aeroflot Russian Airlines,Moskau,2017,118548,731
+32,Aeroflot Russian Airlines,Moskau,2018,119054,731
+33,Aeroflot Russian Airlines,Moskau,2019,115216,730
+34,Aeroflot Russian Airlines,Moskau,2020,25448,160
+35,Aeroflot Russian Airlines,Moskau,2021,4535,28
+36,Air Baltic Corporation,Riga,2017,46730,353
+37,Air Baltic Corporation,Riga,2018,68996,496
+38,Air Baltic Corporation,Riga,2019,71850,512
+39,Air Baltic Corporation,Riga,2020,24292,170
+40,Air Baltic Corporation,Riga,2021,25375,175
+41,Air Berlin,Alicante,2017,2284,13
+42,Air Berlin,Berlin,2017,275694,1571
+43,Air Berlin,Brindisi,2017,3026,17
+44,Air Berlin,Catania,2017,2432,14
+45,Air Berlin,Düsseldorf,2017,228477,1281
+46,Air Berlin,Faro,2017,1602,9
+47,Air Berlin,Fuerteventura,2017,3740,21
+48,Air Berlin,Funchal,2017,1246,7
+49,Air Berlin,Gran Canaria,2017,8544,48
+50,Air Berlin,Lamezia Terme,2017,356,2
+51,Air Berlin,Lanzarote,2017,2314,13
+52,Air Berlin,Olbia,2017,9792,55
+53,Air Berlin,Palma De Mallorca,2017,11504,65
+54,Air Berlin,Rejkjavik,2017,178,1
+55,Air Berlin,Santa Cruz de la Palma,2017,1038,6
+56,Air Berlin,Teneriffa,2017,4616,26
+57,Air Berlin,Westerland,2017,4750,29
+58,Air Berlin,Wien,2017,20500,117
+59,Air Cairo,Düsseldorf,2020,177,1
+60,Air Cairo,Hurghada,2018,2301,13
+61,Air Cairo,Hurghada,2020,354,2
+62,Air Cairo,Hurghada,2021,6393,36
+63,Air Canada,Toronto,2017,87295,306
+64,Air Canada,Toronto,2018,104035,318
+65,Air Canada,Toronto,2019,115575,358
+66,Air Canada,Toronto,2020,62565,216
+67,Air Canada,Toronto,2021,26572,92
+68,Air Canada,Vancouver,2018,14280,56
+69,Air Canada,Vancouver,2019,23715,93
+70,Air China,Peking,2017,28203,119
+71,Air China,Peking,2018,38919,163
+72,Air China,Peking,2019,26563,111
+73,Air Europa,Madrid,2017,88360,730
+74,Air Europa,Madrid,2018,88043,730
+75,Air Europa,Madrid,2019,89463,731
+76,Air Europa,Madrid,2020,39501,298
+77,Air Europa,Madrid,2021,84919,453
+78,Air France,Paris,2017,210732,1580
+79,Air France,Paris,2018,216467,1583
+80,Air France,Paris,2019,196878,1484
+81,Air France,Paris,2020,57190,440
+82,Air France,Paris,2021,38984,350
+83,Air Malta,Amsterdam,2018,133,1
+84,Air Malta,Malta,2017,59258,378
+85,Air Malta,Malta,2018,54639,347
+86,Air Malta,Malta,2019,56236,350
+87,Air Malta,Malta,2020,27943,169
+88,Air Malta,Malta,2021,30902,184
+89,Air Malta,Prag,2020,176,1
+90,Air Serbia,Belgrad,2017,111161,724
+91,Air Serbia,Belgrad,2018,129330,855
+92,Air Serbia,Belgrad,2019,137998,918
+93,Air Serbia,Belgrad,2020,84012,596
+94,Air Serbia,Belgrad,2021,72552,516
+95,Alitalia - Societa Aerea Italiana S.p.A,Rom,2017,74018,689
+96,Alitalia - Societa Aerea Italiana S.p.A,Rom,2018,77796,677
+97,Alitalia - Societa Aerea Italiana S.p.A,Rom,2019,67144,674
+98,Alitalia - Societa Aerea Italiana S.p.A,Rom,2020,35470,357
+99,Alitalia - Societa Aerea Italiana S.p.A,Rom,2021,26230,259
+100,All Nippon Airways,Sendai,2017,264,1
+101,All Nippon Airways,Tokio,2017,528,2
+102,American Airlines,New York,2017,66880,320
+103,American Airlines,New York,2018,12331,59
+104,American Airlines,Philadelphia,2018,57057,273
+105,American Airlines,Philadelphia,2019,67298,322
+106,American Airlines,Philadelphia,2020,11107,48
+107,American Airlines,Philadelphia,2021,3510,15
+108,AtlasGlobal,Antalya,2018,1020,5
+109,AtlasGlobal,Istanbul,2017,59250,355
+110,AtlasGlobal,Istanbul,2018,13266,74
+111,Austrian Airlines AG dba Austrian,Wien,2017,343670,2001
+112,Austrian Airlines AG dba Austrian,Wien,2018,347033,2126
+113,Austrian Airlines AG dba Austrian,Wien,2019,347941,2151
+114,Austrian Airlines AG dba Austrian,Wien,2020,111046,836
+115,Austrian Airlines AG dba Austrian,Wien,2021,125320,848
+116,Avianca,Bogota,2020,250,1
+117,Azerbaijan Airlines,Baku,2020,584,4
+118,Azerbaijan Airlines,Riad,2017,50,1
+119,BH Air Ltd,Varna,2017,1620,9
+120,BH Air Ltd,Varna,2018,1260,7
+121,BH Air Ltd,Varna,2019,1672,10
+122,Belair Airlines,Hurghada,2017,3218,18
+123,Belair Airlines,Marsa Alam,2017,3074,17
+124,Belair Airlines,Pristina,2017,7350,41
+125,Belair Airlines,Skopje,2017,2160,12
+126,British Airways,London,2017,409915,3064
+127,British Airways,London,2018,414403,3159
+128,British Airways,London,2019,428719,3259
+129,British Airways,London,2020,139260,973
+130,British Airways,London,2021,79292,552
+131,Bulgaria Air,Berlin,2021,108,1
+132,Bulgaria Air,Frankfurt,2021,280,2
+133,Bulgaria Air,Prag,2020,3172,25
+134,Bulgaria Air,Prag,2021,820,7
+135,Bulgaria Air,Sofia,2017,19216,164
+136,Bulgaria Air,Sofia,2018,20908,177
+137,Bulgaria Air,Sofia,2019,24400,200
+138,Bulgaria Air,Sofia,2020,15830,125
+139,Bulgaria Air,Sofia,2021,14852,119
+140,Cathay Pacific Airways,Hong Kong,2017,97820,355
+141,Cathay Pacific Airways,Hong Kong,2018,97060,352
+142,Cathay Pacific Airways,Hong Kong,2019,111850,350
+143,Cathay Pacific Airways,Hong Kong,2020,21494,65
+144,Chair Airlines,Agadir,2017,3620,25
+145,Chair Airlines,Agadir,2018,7650,51
+146,Chair Airlines,Agadir,2019,3000,20
+147,Chair Airlines,Ankara,2017,2100,14
+148,Chair Airlines,Antalya,2018,2550,17
+149,Chair Airlines,Antalya,2019,7200,48
+150,Chair Airlines,Beirut,2017,17055,115
+151,Chair Airlines,Beirut,2018,19915,115
+152,Chair Airlines,Beirut,2019,17365,111
+153,Chair Airlines,Beirut,2020,6600,44
+154,Chair Airlines,Beirut,2021,7350,49
+155,Chair Airlines,Berlin,2018,144,1
+156,Chair Airlines,Berlin,2019,430,2
+157,Chair Airlines,Bilbao,2017,150,1
+158,Chair Airlines,Burgas,2017,1350,9
+159,Chair Airlines,Burgas,2018,3000,20
+160,Chair Airlines,Burgas,2019,1650,11
+161,Chair Airlines,Calvi,2017,3300,22
+162,Chair Airlines,Calvi,2019,3150,21
+163,Chair Airlines,Djerba,2020,750,5
+164,Chair Airlines,Frankfurt,2018,150,1
+165,Chair Airlines,Fuerteventura,2017,1200,8
+166,Chair Airlines,Fuerteventura,2018,8765,58
+167,Chair Airlines,Fuerteventura,2019,1200,8
+168,Chair Airlines,Funchal,2017,150,1
+169,Chair Airlines,Funchal,2018,750,5
+170,Chair Airlines,Funchal,2019,1200,8
+171,Chair Airlines,Gran Canaria,2017,6359,43
+172,Chair Airlines,Gran Canaria,2018,12906,86
+173,Chair Airlines,Gran Canaria,2019,4792,32
+174,Chair Airlines,Hannover,2018,450,3
+175,Chair Airlines,Hurghada,2017,16799,110
+176,Chair Airlines,Hurghada,2018,22129,135
+177,Chair Airlines,Hurghada,2019,21615,135
+178,Chair Airlines,Hurghada,2020,11550,77
+179,Chair Airlines,Hurghada,2021,15600,104
+180,Chair Airlines,Ibiza,2018,14536,97
+181,Chair Airlines,Ibiza,2019,1050,7
+182,Chair Airlines,Ibiza,2020,1950,13
+183,Chair Airlines,Ibiza,2021,6000,40
+184,Chair Airlines,Irakleion,2017,8715,49
+185,Chair Airlines,Irakleion,2018,7830,52
+186,Chair Airlines,Irakleion,2019,7200,48
+187,Chair Airlines,Irakleion,2020,4200,28
+188,Chair Airlines,Irakleion,2021,4650,31
+189,Chair Airlines,Jerez,2017,8550,57
+190,Chair Airlines,Kerkyra,2018,3150,21
+191,Chair Airlines,Kerkyra,2021,150,1
+192,Chair Airlines,Kos,2017,8325,49
+193,Chair Airlines,Kos,2018,13340,69
+194,Chair Airlines,Kos,2019,10200,68
+195,Chair Airlines,Kos,2021,450,3
+196,Chair Airlines,Larnaca,2018,7938,53
+197,Chair Airlines,Larnaca,2019,11250,75
+198,Chair Airlines,Larnaca,2020,4050,27
+199,Chair Airlines,Larnaca,2021,3150,21
+200,Chair Airlines,Lourdes,2018,300,2
+201,Chair Airlines,Lwiw,2018,150,1
+202,Chair Airlines,Marsa Alam,2017,10104,58
+203,Chair Airlines,Marsa Alam,2018,11115,52
+204,Chair Airlines,Marsa Alam,2019,10875,66
+205,Chair Airlines,Marsa Alam,2020,6000,40
+206,Chair Airlines,Marsa Alam,2021,3150,21
+207,Chair Airlines,Nis,2017,5850,39
+208,Chair Airlines,Nis,2018,450,3
+209,Chair Airlines,Ohrid,2017,8850,59
+210,Chair Airlines,Ohrid,2018,10259,68
+211,Chair Airlines,Ohrid,2019,11100,74
+212,Chair Airlines,Ohrid,2020,4950,33
+213,Chair Airlines,Ohrid,2021,2700,18
+214,Chair Airlines,Palma De Mallorca,2017,38250,214
+215,Chair Airlines,Palma De Mallorca,2018,46404,292
+216,Chair Airlines,Palma De Mallorca,2019,21600,144
+217,Chair Airlines,Palma De Mallorca,2021,1500,10
+218,Chair Airlines,Podgorica,2021,3300,22
+219,Chair Airlines,Porto,2017,2250,15
+220,Chair Airlines,Pristina,2017,45304,244
+221,Chair Airlines,Pristina,2018,58385,298
+222,Chair Airlines,Pristina,2019,67922,426
+223,Chair Airlines,Pristina,2020,31200,208
+224,Chair Airlines,Pristina,2021,36390,228
+225,Chair Airlines,Rhodos,2018,7794,52
+226,Chair Airlines,Rhodos,2019,3750,25
+227,Chair Airlines,Rhodos,2020,3300,22
+228,Chair Airlines,Rhodos,2021,2850,19
+229,Chair Airlines,Rostock,2017,300,2
+230,Chair Airlines,Rovaniemi,2017,3542,25
+231,Chair Airlines,Santa Cruz de la Palma,2017,3770,26
+232,Chair Airlines,Santa Cruz de la Palma,2018,3959,26
+233,Chair Airlines,Santa Cruz de la Palma,2019,2550,17
+234,Chair Airlines,Sharm El-Sheikh,2017,1950,13
+235,Chair Airlines,Sharm El-Sheikh,2018,7865,52
+236,Chair Airlines,Sharm El-Sheikh,2019,11100,74
+237,Chair Airlines,Sharm El-Sheikh,2020,2100,14
+238,Chair Airlines,Sharm El-Sheikh,2021,300,2
+239,Chair Airlines,Skopje,2017,43631,236
+240,Chair Airlines,Skopje,2018,54133,286
+241,Chair Airlines,Skopje,2019,53730,340
+242,Chair Airlines,Skopje,2020,22950,153
+243,Chair Airlines,Skopje,2021,24600,161
+244,Chair Airlines,Split,2017,2700,18
+245,Chair Airlines,Split,2021,300,2
+246,Chair Airlines,Teneriffa,2017,1950,13
+247,Chair Airlines,Teneriffa,2018,5088,34
+248,Chair Airlines,Teneriffa,2019,300,2
+249,Chair Airlines,Thessaloniki,2021,450,3
+250,Chair Airlines,Varna,2017,1650,11
+251,Chair Airlines,Vilnius,2017,450,3
+252,Chair Airlines,Wien,2018,150,1
+253,Chair Airlines,Zadar,2018,5850,39
+254,Chair Airlines,Zadar,2019,3150,21
+255,Cobalt Aero,Larnaca,2017,8112,56
+256,Cobalt Aero,Larnaca,2018,8544,59
+257,Condor Flugdienst,Fuerteventura,2021,360,2
+258,Condor Flugdienst,Gran Canaria,2017,900,5
+259,Condor Flugdienst,Gran Canaria,2018,580,3
+260,Condor Flugdienst,Gran Canaria,2021,5400,30
+261,Condor Flugdienst,Ibiza,2021,4320,24
+262,Condor Flugdienst,Irakleion,2021,10620,59
+263,Condor Flugdienst,Jerez,2021,180,1
+264,Condor Flugdienst,Kos,2021,5940,33
+265,Condor Flugdienst,Lanzarote,2017,180,1
+266,Condor Flugdienst,Lanzarote,2018,180,1
+267,Condor Flugdienst,Larnaca,2021,5220,29
+268,Condor Flugdienst,Olbia,2021,4320,24
+269,Condor Flugdienst,Palma De Mallorca,2021,16020,89
+270,Condor Flugdienst,Rhodos,2021,5760,32
+271,Condor Flugdienst,Teneriffa,2021,4860,27
+272,Corendon Airlines,Antalya,2017,3920,21
+273,Corendon Airlines,Antalya,2018,756,4
+274,Corendon Airlines,Antalya,2019,5499,30
+275,Corendon Airlines,Antalya,2020,4923,27
+276,Corendon Airlines,Antalya,2021,10529,58
+277,Corendon Airlines,Düsseldorf,2019,180,1
+278,Corendon Airlines,Genf,2017,756,4
+279,Corendon Airlines,Genf,2018,1512,8
+280,Corendon Airlines,Izmir,2021,1314,7
+281,Corendon Airlines,Katowice,2017,189,1
+282,Corendon Airlines Europe,Düsseldorf,2019,189,1
+283,Corendon Airlines Europe,Hurghada,2018,567,3
+284,Corendon Airlines Europe,Hurghada,2019,720,4
+285,Corendon Airlines Europe,Irakleion,2018,189,1
+286,Corendon Airlines Europe,Irakleion,2019,369,2
+287,Corendon Airlines Europe,Irakleion,2021,6120,33
+288,Corendon Airlines Europe,Köln,2018,567,3
+289,Corendon Airlines Europe,Wien,2018,189,1
+290,Croatia Airlines,Dubrovnik,2017,9348,123
+291,Croatia Airlines,Dubrovnik,2018,9272,122
+292,Croatia Airlines,Dubrovnik,2019,9804,129
+293,Croatia Airlines,Dubrovnik,2020,3040,40
+294,Croatia Airlines,Dubrovnik,2021,3572,47
+295,Croatia Airlines,Pula,2017,608,8
+296,Croatia Airlines,Split,2017,9424,124
+297,Croatia Airlines,Split,2018,9652,127
+298,Croatia Airlines,Split,2019,10336,136
+299,Croatia Airlines,Split,2020,4104,54
+300,Croatia Airlines,Split,2021,5768,75
+301,Croatia Airlines,Zagreb,2017,55296,725
+302,Croatia Airlines,Zagreb,2018,55192,720
+303,Croatia Airlines,Zagreb,2019,54696,717
+304,Croatia Airlines,Zagreb,2020,29236,382
+305,Croatia Airlines,Zagreb,2021,31112,404
+306,Cyprus Airways,Larnaca,2018,5760,40
+307,Cyprus Airways,Larnaca,2019,6768,47
+308,Cyprus Airways,Larnaca,2020,2766,19
+309,Darwin Airline,Genf,2017,15550,311
+310,Delta Air Lines,Atlanta,2017,29502,122
+311,Delta Air Lines,Atlanta,2018,28702,127
+312,Delta Air Lines,Atlanta,2019,26023,118
+313,Delta Air Lines,New York,2017,70318,328
+314,Delta Air Lines,New York,2018,82539,358
+315,Delta Air Lines,New York,2019,84558,361
+316,Delta Air Lines,New York,2020,19278,81
+317,Easyjet,Amsterdam,2017,26724,165
+318,Easyjet,Amsterdam,2018,31596,184
+319,Easyjet,Amsterdam,2019,31764,179
+320,Easyjet,Amsterdam,2020,6606,36
+321,Easyjet,Barcelona,2021,2028,13
+322,Easyjet,Berlin,2017,70086,427
+323,Easyjet,Berlin,2018,320048,2010
+324,Easyjet,Berlin,2019,241956,1439
+325,Easyjet,Berlin,2020,62040,366
+326,Easyjet,Berlin,2021,18174,108
+327,Easyjet,Brindisi,2021,2958,18
+328,Easyjet,Catania,2021,1302,7
+329,Easyjet,Faro,2021,3972,22
+330,Easyjet,Hamburg,2017,56688,350
+331,Easyjet,Hamburg,2018,13284,83
+332,Easyjet,Lissabon,2017,26016,166
+333,Easyjet,Lissabon,2018,32268,203
+334,Easyjet,Lissabon,2019,32280,203
+335,Easyjet,Lissabon,2020,10728,61
+336,Easyjet,London,2017,193296,1176
+337,Easyjet,London,2018,192000,1161
+338,Easyjet,London,2019,189744,1139
+339,Easyjet,London,2020,53772,318
+340,Easyjet,London,2021,16734,99
+341,Easyjet,Neapel,2017,14712,90
+342,Easyjet,Neapel,2018,22140,141
+343,Easyjet,Neapel,2019,23148,138
+344,Easyjet,Neapel,2020,5022,29
+345,Easyjet,Neapel,2021,810,5
+346,Easyjet,Nizza,2017,14322,77
+347,Easyjet,Nizza,2018,23994,129
+348,Easyjet,Palermo,2021,1272,7
+349,Easyjet,Porto,2018,18162,100
+350,Easyjet,Porto,2019,24078,130
+351,Easyjet,Porto,2020,22500,121
+352,Easyjet,Porto,2021,34200,185
+353,Easyjet,Venedig,2017,17916,113
+354,Easyjet,Venedig,2018,29184,184
+355,Easyjet,Venedig,2019,10140,65
+356,Edelweiss Air,Agadir,2021,696,4
+357,Edelweiss Air,Antalya,2017,25642,153
+358,Edelweiss Air,Antalya,2018,40867,230
+359,Edelweiss Air,Antalya,2019,45110,256
+360,Edelweiss Air,Antalya,2020,25585,126
+361,Edelweiss Air,Antalya,2021,21769,116
+362,Edelweiss Air,Bandaranaike,2018,5338,17
+363,Edelweiss Air,Bandaranaike,2019,16966,54
+364,Edelweiss Air,Bandaranaike,2020,7850,25
+365,Edelweiss Air,Bandaranaike,2021,6280,20
+366,Edelweiss Air,Bodrum,2017,6552,39
+367,Edelweiss Air,Bodrum,2018,5394,31
+368,Edelweiss Air,Bodrum,2019,5220,30
+369,Edelweiss Air,Bodrum,2020,3525,20
+370,Edelweiss Air,Bodrum,2021,7100,40
+371,Edelweiss Air,Buenos Aires,2018,5024,16
+372,Edelweiss Air,Buenos Aires,2019,32656,104
+373,Edelweiss Air,Buenos Aires,2020,7536,24
+374,Edelweiss Air,Buenos Aires,2021,2720,8
+375,Edelweiss Air,Cagliari,2017,13428,79
+376,Edelweiss Air,Cagliari,2018,22908,131
+377,Edelweiss Air,Cagliari,2019,20309,120
+378,Edelweiss Air,Cagliari,2020,8178,47
+379,Edelweiss Air,Cagliari,2021,18534,106
+380,Edelweiss Air,Calgary,2017,9420,30
+381,Edelweiss Air,Calgary,2018,9423,30
+382,Edelweiss Air,Calgary,2019,9420,30
+383,Edelweiss Air,Cancun,2017,23240,74
+384,Edelweiss Air,Cancun,2018,41764,133
+385,Edelweiss Air,Cancun,2019,45845,146
+386,Edelweiss Air,Cancun,2020,16024,51
+387,Edelweiss Air,Cancun,2021,34540,110
+388,Edelweiss Air,Catania,2017,31626,188
+389,Edelweiss Air,Catania,2018,49658,287
+390,Edelweiss Air,Catania,2019,48822,280
+391,Edelweiss Air,Catania,2020,22272,128
+392,Edelweiss Air,Catania,2021,29655,169
+393,Edelweiss Air,Chania,2018,4698,27
+394,Edelweiss Air,Chania,2019,8802,50
+395,Edelweiss Air,Chania,2020,2784,16
+396,Edelweiss Air,Chania,2021,8004,46
+397,Edelweiss Air,Dalaman,2017,2688,16
+398,Edelweiss Air,Dalaman,2018,2610,15
+399,Edelweiss Air,Dalaman,2019,2784,16
+400,Edelweiss Air,Dalaman,2020,2958,17
+401,Edelweiss Air,Dalaman,2021,2958,17
+402,Edelweiss Air,Denver,2018,10080,32
+403,Edelweiss Air,Denver,2019,9765,31
+404,Edelweiss Air,Djerba,2018,5568,32
+405,Edelweiss Air,Djerba,2019,11154,60
+406,Edelweiss Air,Djerba,2020,1392,8
+407,Edelweiss Air,Djerba,2021,2436,14
+408,Edelweiss Air,Dubrovnik,2018,10440,60
+409,Edelweiss Air,Dubrovnik,2019,10302,59
+410,Edelweiss Air,Dubrovnik,2020,1914,11
+411,Edelweiss Air,Dubrovnik,2021,2262,13
+412,Edelweiss Air,Edinburgh,2017,11920,71
+413,Edelweiss Air,Edinburgh,2018,23461,135
+414,Edelweiss Air,Edinburgh,2019,27240,156
+415,Edelweiss Air,Edinburgh,2020,5742,33
+416,Edelweiss Air,Edinburgh,2021,3480,20
+417,Edelweiss Air,Faro,2017,13712,83
+418,Edelweiss Air,Faro,2018,15678,90
+419,Edelweiss Air,Faro,2019,17295,99
+420,Edelweiss Air,Faro,2020,12785,67
+421,Edelweiss Air,Faro,2021,17558,97
+422,Edelweiss Air,Figari,2020,2262,13
+423,Edelweiss Air,Figari,2021,2958,17
+424,Edelweiss Air,Fuerteventura,2017,20008,122
+425,Edelweiss Air,Fuerteventura,2018,27142,158
+426,Edelweiss Air,Fuerteventura,2019,28710,165
+427,Edelweiss Air,Fuerteventura,2020,13050,75
+428,Edelweiss Air,Fuerteventura,2021,20010,115
+429,Edelweiss Air,Funchal,2017,18800,113
+430,Edelweiss Air,Funchal,2018,19382,113
+431,Edelweiss Air,Funchal,2019,20532,118
+432,Edelweiss Air,Funchal,2020,9570,55
+433,Edelweiss Air,Funchal,2021,14616,84
+434,Edelweiss Air,Gran Canaria,2017,38540,235
+435,Edelweiss Air,Gran Canaria,2018,56493,328
+436,Edelweiss Air,Gran Canaria,2019,63824,366
+437,Edelweiss Air,Gran Canaria,2020,32856,184
+438,Edelweiss Air,Gran Canaria,2021,45762,263
+439,Edelweiss Air,Guanacaste,2021,1570,5
+440,Edelweiss Air,Havana,2017,32714,104
+441,Edelweiss Air,Havana,2018,32411,103
+442,Edelweiss Air,Havana,2019,32409,103
+443,Edelweiss Air,Havana,2020,7558,24
+444,Edelweiss Air,Havana,2021,4711,15
+445,Edelweiss Air,Ho Chi Minh Stadt,2018,4396,14
+446,Edelweiss Air,Ho Chi Minh Stadt,2019,13502,43
+447,Edelweiss Air,Ho Chi Minh Stadt,2020,5966,19
+448,Edelweiss Air,Hurghada,2017,30768,185
+449,Edelweiss Air,Hurghada,2018,44634,256
+450,Edelweiss Air,Hurghada,2019,59691,339
+451,Edelweiss Air,Hurghada,2020,35091,196
+452,Edelweiss Air,Hurghada,2021,58107,309
+453,Edelweiss Air,Ibiza,2017,21642,128
+454,Edelweiss Air,Ibiza,2018,31448,180
+455,Edelweiss Air,Ibiza,2019,34550,195
+456,Edelweiss Air,Ibiza,2020,14654,81
+457,Edelweiss Air,Ibiza,2021,38250,180
+458,Edelweiss Air,Inverness,2018,1566,9
+459,Edelweiss Air,Inverness,2019,1566,9
+460,Edelweiss Air,Irakleion,2017,32424,193
+461,Edelweiss Air,Irakleion,2018,41004,234
+462,Edelweiss Air,Irakleion,2019,42033,241
+463,Edelweiss Air,Irakleion,2020,28623,129
+464,Edelweiss Air,Irakleion,2021,42982,221
+465,Edelweiss Air,Jerez,2018,4350,25
+466,Edelweiss Air,Jerez,2019,4350,25
+467,Edelweiss Air,Jerez,2020,1566,9
+468,Edelweiss Air,Jerez,2021,1740,10
+469,Edelweiss Air,Kalamata,2019,3654,21
+470,Edelweiss Air,Kalamata,2020,2958,17
+471,Edelweiss Air,Kalamata,2021,7656,44
+472,Edelweiss Air,Kapstadt,2017,21666,69
+473,Edelweiss Air,Kapstadt,2018,35170,112
+474,Edelweiss Air,Kapstadt,2019,40192,128
+475,Edelweiss Air,Kapstadt,2020,16958,54
+476,Edelweiss Air,Kapstadt,2021,8164,26
+477,Edelweiss Air,Kerkyra,2017,7002,41
+478,Edelweiss Air,Kerkyra,2018,7158,41
+479,Edelweiss Air,Kerkyra,2019,13224,76
+480,Edelweiss Air,Kerkyra,2020,6090,35
+481,Edelweiss Air,Kerkyra,2021,11184,64
+482,Edelweiss Air,Kilimanjaro,2021,10990,35
+483,Edelweiss Air,Kos,2017,11646,69
+484,Edelweiss Air,Kos,2018,15684,90
+485,Edelweiss Air,Kos,2019,15660,90
+486,Edelweiss Air,Kos,2020,12426,69
+487,Edelweiss Air,Kos,2021,22771,119
+488,Edelweiss Air,Lamezia Terme,2017,17236,101
+489,Edelweiss Air,Lamezia Terme,2018,27476,157
+490,Edelweiss Air,Lamezia Terme,2019,27687,160
+491,Edelweiss Air,Lamezia Terme,2020,13050,75
+492,Edelweiss Air,Lamezia Terme,2021,22399,125
+493,Edelweiss Air,Lanzarote,2017,17548,107
+494,Edelweiss Air,Lanzarote,2018,20744,121
+495,Edelweiss Air,Lanzarote,2019,23142,133
+496,Edelweiss Air,Lanzarote,2020,12180,70
+497,Edelweiss Air,Lanzarote,2021,17574,101
+498,Edelweiss Air,Larnaca,2017,39550,236
+499,Edelweiss Air,Larnaca,2018,52874,300
+500,Edelweiss Air,Larnaca,2019,58910,332
+501,Edelweiss Air,Larnaca,2020,24433,138
+502,Edelweiss Air,Larnaca,2021,31096,167
+503,Edelweiss Air,Las Vegas,2017,37130,118
+504,Edelweiss Air,Las Vegas,2018,30535,97
+505,Edelweiss Air,Las Vegas,2019,29272,93
+506,Edelweiss Air,Luxor,2021,1392,8
+507,Edelweiss Air,Mahe,2018,4710,15
+508,Edelweiss Air,Mahe,2019,16014,51
+509,Edelweiss Air,Mahe,2020,7855,25
+510,Edelweiss Air,Mahe,2021,10363,33
+511,Edelweiss Air,Male,2017,20160,64
+512,Edelweiss Air,Male,2018,22963,73
+513,Edelweiss Air,Male,2019,22652,72
+514,Edelweiss Air,Male,2020,14163,45
+515,Edelweiss Air,Male,2021,29885,95
+516,Edelweiss Air,Marrakesch,2017,14432,88
+517,Edelweiss Air,Marrakesch,2018,19600,112
+518,Edelweiss Air,Marrakesch,2019,25068,144
+519,Edelweiss Air,Marrakesch,2020,7830,45
+520,Edelweiss Air,Marrakesch,2021,4350,25
+521,Edelweiss Air,Marsa Alam,2017,2352,14
+522,Edelweiss Air,Marsa Alam,2018,12456,72
+523,Edelweiss Air,Marsa Alam,2019,15138,87
+524,Edelweiss Air,Marsa Alam,2020,10614,61
+525,Edelweiss Air,Marsa Alam,2021,14442,83
+526,Edelweiss Air,Mauritius,2017,20475,65
+527,Edelweiss Air,Mauritius,2018,23593,75
+528,Edelweiss Air,Mauritius,2019,36130,115
+529,Edelweiss Air,Mauritius,2020,7874,25
+530,Edelweiss Air,Mauritius,2021,10362,33
+531,Edelweiss Air,Menorca,2020,2436,14
+532,Edelweiss Air,Menorca,2021,6960,40
+533,Edelweiss Air,Muskat,2021,5652,18
+534,Edelweiss Air,Mykonos,2017,11256,67
+535,Edelweiss Air,Mykonos,2018,15660,90
+536,Edelweiss Air,Mykonos,2019,14268,82
+537,Edelweiss Air,Mykonos,2020,12876,74
+538,Edelweiss Air,Mykonos,2021,21402,124
+539,Edelweiss Air,Ohrid,2019,7685,45
+540,Edelweiss Air,Ohrid,2020,3132,18
+541,Edelweiss Air,Ohrid,2021,2094,12
+542,Edelweiss Air,Olbia,2017,19998,118
+543,Edelweiss Air,Olbia,2018,29664,169
+544,Edelweiss Air,Olbia,2019,27588,158
+545,Edelweiss Air,Olbia,2020,11658,67
+546,Edelweiss Air,Olbia,2021,21882,127
+547,Edelweiss Air,Orlando,2018,15119,48
+548,Edelweiss Air,Orlando,2019,12915,41
+549,Edelweiss Air,Ovda,2018,1044,6
+550,Edelweiss Air,Ovda,2019,1740,10
+551,Edelweiss Air,Palma De Mallorca,2017,22938,136
+552,Edelweiss Air,Palma De Mallorca,2018,54156,304
+553,Edelweiss Air,Palma De Mallorca,2019,55486,304
+554,Edelweiss Air,Palma De Mallorca,2020,27685,151
+555,Edelweiss Air,Palma De Mallorca,2021,45530,247
+556,Edelweiss Air,Paphos,2018,10614,61
+557,Edelweiss Air,Paphos,2019,8004,46
+558,Edelweiss Air,Paphos,2021,522,3
+559,Edelweiss Air,Phuket,2017,21980,70
+560,Edelweiss Air,Phuket,2018,22922,73
+561,Edelweiss Air,Phuket,2019,23236,74
+562,Edelweiss Air,Phuket,2020,11618,37
+563,Edelweiss Air,Phuket,2021,5652,18
+564,Edelweiss Air,Preveza,2021,2958,17
+565,Edelweiss Air,Pristina,2017,88041,502
+566,Edelweiss Air,Pristina,2018,95317,540
+567,Edelweiss Air,Pristina,2019,94975,537
+568,Edelweiss Air,Pristina,2020,72970,393
+569,Edelweiss Air,Pristina,2021,64389,356
+570,Edelweiss Air,Puerto Plata,2021,9734,31
+571,Edelweiss Air,Pula,2017,1512,9
+572,Edelweiss Air,Pula,2018,5970,34
+573,Edelweiss Air,Pula,2019,6155,37
+574,Edelweiss Air,Pula,2020,2088,12
+575,Edelweiss Air,Pula,2021,2808,16
+576,Edelweiss Air,Punta Cana,2017,32719,104
+577,Edelweiss Air,Punta Cana,2018,41569,132
+578,Edelweiss Air,Punta Cana,2019,47557,151
+579,Edelweiss Air,Punta Cana,2020,23935,76
+580,Edelweiss Air,Punta Cana,2021,47459,151
+581,Edelweiss Air,Rejkjavik,2021,4524,26
+582,Edelweiss Air,Rhodos,2017,13806,82
+583,Edelweiss Air,Rhodos,2018,18630,107
+584,Edelweiss Air,Rhodos,2019,19386,111
+585,Edelweiss Air,Rhodos,2020,11658,67
+586,Edelweiss Air,Rhodos,2021,25350,145
+587,Edelweiss Air,Rio de Janeiro,2017,32750,104
+588,Edelweiss Air,Rio de Janeiro,2018,33341,106
+589,Edelweiss Air,Rio de Janeiro,2019,31474,100
+590,Edelweiss Air,Rio de Janeiro,2020,7245,23
+591,Edelweiss Air,Sal,2021,1914,11
+592,Edelweiss Air,Samos,2018,4176,24
+593,Edelweiss Air,Samos,2019,4350,25
+594,Edelweiss Air,Samos,2020,2784,16
+595,Edelweiss Air,Samos,2021,2784,16
+596,Edelweiss Air,San Diego,2017,9420,30
+597,Edelweiss Air,San Diego,2018,15700,50
+598,Edelweiss Air,San Diego,2019,6594,21
+599,Edelweiss Air,San Jose,2017,21352,68
+600,Edelweiss Air,San Jose,2018,37052,118
+601,Edelweiss Air,San Jose,2019,41134,131
+602,Edelweiss Air,San Jose,2020,12246,39
+603,Edelweiss Air,San Jose,2021,24182,77
+604,Edelweiss Air,Sansibar,2021,6280,20
+605,Edelweiss Air,Santa Cruz de la Palma,2018,1740,10
+606,Edelweiss Air,Santa Cruz de la Palma,2019,7308,42
+607,Edelweiss Air,Santa Cruz de la Palma,2020,4176,24
+608,Edelweiss Air,Santa Cruz de la Palma,2021,9744,56
+609,Edelweiss Air,Santiago de Compostela,2020,1914,11
+610,Edelweiss Air,Santiago de Compostela,2021,4395,25
+611,Edelweiss Air,Sevilla,2017,22476,135
+612,Edelweiss Air,Sevilla,2018,24000,140
+613,Edelweiss Air,Sevilla,2019,22128,127
+614,Edelweiss Air,Sevilla,2020,3846,22
+615,Edelweiss Air,Sevilla,2021,6444,37
+616,Edelweiss Air,Sharm El-Sheikh,2020,2262,13
+617,Edelweiss Air,Sharm El-Sheikh,2021,14094,81
+618,Edelweiss Air,Skiathos,2021,1218,7
+619,Edelweiss Air,Skopje,2017,28038,161
+620,Edelweiss Air,Skopje,2018,30000,172
+621,Edelweiss Air,Skopje,2019,31083,176
+622,Edelweiss Air,Skopje,2020,15762,88
+623,Edelweiss Air,Skopje,2021,11928,67
+624,Edelweiss Air,Split,2017,19104,112
+625,Edelweiss Air,Split,2018,19281,109
+626,Edelweiss Air,Split,2019,21636,123
+627,Edelweiss Air,Split,2020,9222,53
+628,Edelweiss Air,Split,2021,16278,93
+629,Edelweiss Air,Tampa,2017,40311,128
+630,Edelweiss Air,Tampa,2018,24567,78
+631,Edelweiss Air,Tampa,2019,22987,73
+632,Edelweiss Air,Tampa,2020,3768,12
+633,Edelweiss Air,Teneriffa,2017,41164,251
+634,Edelweiss Air,Teneriffa,2018,56416,329
+635,Edelweiss Air,Teneriffa,2019,63336,364
+636,Edelweiss Air,Teneriffa,2020,32016,184
+637,Edelweiss Air,Teneriffa,2021,50988,293
+638,Edelweiss Air,Thira,2017,14448,86
+639,Edelweiss Air,Thira,2018,14790,85
+640,Edelweiss Air,Thira,2019,15834,91
+641,Edelweiss Air,Thira,2020,8352,48
+642,Edelweiss Air,Thira,2021,17748,103
+643,Edelweiss Air,Tirana,2019,10458,60
+644,Edelweiss Air,Tirana,2020,2436,14
+645,Edelweiss Air,Tirana,2021,5643,32
+646,Edelweiss Air,Tivat,2021,1392,8
+647,Edelweiss Air,Tromso,2019,1218,7
+648,Edelweiss Air,Tromso,2020,1218,7
+649,Edelweiss Air,Vancouver,2017,17317,55
+650,Edelweiss Air,Vancouver,2018,20732,66
+651,Edelweiss Air,Vancouver,2019,20412,65
+652,Edelweiss Air,Varadero,2018,2835,9
+653,Edelweiss Air,Varadero,2019,5670,18
+654,Edelweiss Air,Varadero,2020,3780,12
+655,Edelweiss Air,Varna,2017,1392,8
+656,Edelweiss Air,Varna,2018,1422,8
+657,Edelweiss Air,Varna,2019,1392,8
+658,Edelweiss Air,Varna,2020,1392,8
+659,Edelweiss Air,Varna,2021,1440,8
+660,Edelweiss Air,Zakinthos,2017,3780,22
+661,Edelweiss Air,Zakinthos,2018,7680,44
+662,Edelweiss Air,Zakinthos,2019,8532,49
+663,Edelweiss Air,Zakinthos,2020,5394,31
+664,Edelweiss Air,Zakinthos,2021,8178,47
+665,Edelweiss Air,Zürich,2019,174,1
+666,Egyptair,Kairo,2018,308,2
+667,Egyptair,Kairo,2021,142,1
+668,El Al Israel Airlines,Tel Aviv,2017,92653,581
+669,El Al Israel Airlines,Tel Aviv,2018,84522,534
+670,El Al Israel Airlines,Tel Aviv,2019,85255,526
+671,El Al Israel Airlines,Tel Aviv,2020,16041,96
+672,El Al Israel Airlines,Tel Aviv,2021,13797,81
+673,Emirates,Dubai,2017,376960,731
+674,Emirates,Dubai,2018,376393,731
+675,Emirates,Dubai,2019,369575,716
+676,Emirates,Dubai,2020,140873,320
+677,Emirates,Dubai,2021,161270,389
+678,Etihad Airways,Abu Dhabi,2017,99688,365
+679,Etihad Airways,Abu Dhabi,2018,110378,365
+680,Etihad Airways,Abu Dhabi,2019,109587,365
+681,Etihad Airways,Abu Dhabi,2020,60541,206
+682,Etihad Airways,Abu Dhabi,2021,50912,176
+683,Eurowings,Düsseldorf,2017,161350,1028
+684,Eurowings,Düsseldorf,2018,269822,1784
+685,Eurowings,Düsseldorf,2019,271692,1781
+686,Eurowings,Düsseldorf,2020,94362,598
+687,Eurowings,Düsseldorf,2021,59298,390
+688,Eurowings,Hamburg,2017,118559,721
+689,Eurowings,Hamburg,2018,170118,1072
+690,Eurowings,Hamburg,2019,174534,1087
+691,Eurowings,Hamburg,2020,67770,428
+692,Eurowings,Hamburg,2021,56094,362
+693,Eurowings,Köln,2017,61026,389
+694,Eurowings,Köln,2018,205986,1339
+695,Eurowings,Köln,2019,198744,1299
+696,Eurowings,Köln,2020,65988,423
+697,Eurowings,Köln,2021,29100,182
+698,Eurowings,Palma De Mallorca,2019,27630,154
+699,Eurowings,Palma De Mallorca,2020,1800,12
+700,Eurowings,Palma De Mallorca,2021,10374,60
+701,Eurowings,Pristina,2021,1218,7
+702,Finnair,Helsinki,2017,134469,727
+703,Finnair,Helsinki,2018,132311,726
+704,Finnair,Helsinki,2019,135153,730
+705,Finnair,Helsinki,2020,59740,406
+706,Finnair,Helsinki,2021,59862,473
+707,Finnair,Kittila,2017,627,3
+708,Finnair,Kittila,2018,2994,15
+709,Finnair,Kittila,2019,3133,16
+710,Finnair,Kittila,2020,2709,13
+711,FlexFlight ApS,Antalya,2017,7560,42
+712,FlexFlight ApS,Brüssel,2017,399,78
+713,FlexFlight ApS,Brüssel,2018,920,210
+714,FlexFlight ApS,Brüssel,2019,344,86
+715,FlexFlight ApS,Brüssel,2020,120,30
+716,FlexFlight ApS,Frankfurt,2020,68,17
+717,FlexFlight ApS,Guernsey,2020,52,13
+718,FlexFlight ApS,Hurghada,2018,7215,22
+719,FlexFlight ApS,Hurghada,2019,5760,32
+720,FlexFlight ApS,Hurghada,2020,2520,14
+721,FlexFlight ApS,Hurghada,2021,3960,22
+722,FlexFlight ApS,Linz,2020,272,68
+723,FlexFlight ApS,Linz,2021,344,86
+724,FlexFlight ApS,Luxenburg,2018,416,97
+725,FlexFlight ApS,Luxenburg,2019,480,120
+726,FlexFlight ApS,Luxenburg,2020,336,84
+727,FlexFlight ApS,Mailand,2018,206,44
+728,FlexFlight ApS,München,2018,410,95
+729,FlexFlight ApS,München,2019,172,43
+730,FlexFlight ApS,Nizza,2018,52,13
+731,FlexFlight ApS,Nizza,2019,120,30
+732,FlexFlight ApS,Nizza,2020,272,68
+733,FlexFlight ApS,Nizza,2021,344,86
+734,FlexFlight ApS,Paderborn,2021,1536,24
+735,FlexFlight ApS,Paris,2020,272,68
+736,FlexFlight ApS,Paris,2021,344,86
+737,FlexFlight ApS,Westerland,2021,512,8
+738,FlexFlight ApS,Wien,2018,354,82
+739,Fly Compass Service,Genua,2017,828,18
+740,Fly Compass Service,Genua,2018,1104,24
+741,Flybe,Jersey,2018,960,20
+742,Flybe,Jersey,2019,1224,18
+743,Flynas - National Air Services,Abu Dhabi,2019,2296,7
+744,Georgian Airways,Tiflis,2020,97,1
+745,Germania,Catania,2018,148,1
+746,Germania,Leipzig,2018,150,1
+747,Germania,Lourdes,2018,645,3
+748,Germania,Manchester,2018,150,1
+749,Germania,Palma De Mallorca,2017,2072,14
+750,Germania,Palma De Mallorca,2018,600,4
+751,Germania,Rostock,2017,5772,39
+752,Germania,Varna,2018,150,1
+753,Hainan Airlines,Shenzhen,2018,9318,37
+754,Hainan Airlines,Shenzhen,2019,25201,104
+755,Hainan Airlines,Shenzhen,2020,2613,12
+756,Helvetic Airways,Bordeaux,2017,4916,44
+757,Helvetic Airways,Brac,2020,112,1
+758,Helvetic Airways,Calvi,2018,2300,23
+759,Helvetic Airways,Dubrovnik,2020,112,1
+760,Helvetic Airways,Florenz,2020,112,1
+761,Helvetic Airways,Irakleion,2021,1760,16
+762,Helvetic Airways,Kittila,2017,1366,10
+763,Helvetic Airways,Kittila,2018,224,2
+764,Helvetic Airways,Kittila,2019,1232,11
+765,Helvetic Airways,Kittila,2020,1120,10
+766,Helvetic Airways,Kittila,2021,110,1
+767,Helvetic Airways,Kos,2021,1760,16
+768,Helvetic Airways,Kuusamo,2018,896,8
+769,Helvetic Airways,Kuusamo,2019,1008,9
+770,Helvetic Airways,Köln,2018,100,1
+771,Helvetic Airways,Olbia,2018,2800,28
+772,Helvetic Airways,Olbia,2019,3024,27
+773,Helvetic Airways,Olbia,2020,784,7
+774,Helvetic Airways,Palma De Mallorca,2021,1650,15
+775,Helvetic Airways,Pristina,2020,2688,24
+776,Helvetic Airways,Pristina,2021,4816,43
+777,Helvetic Airways,Rostock,2018,3800,38
+778,Helvetic Airways,Shannon,2017,1432,13
+779,Helvetic Airways,Shannon,2018,800,8
+780,Helvetic Airways,Tivat,2020,112,1
+781,Helvetic Airways,Tromso,2017,2016,18
+782,Helvetic Airways,Tromso,2018,1820,17
+783,Helvetic Airways,Tromso,2019,1008,9
+784,ITA Airways,Rom,2021,9128,62
+785,Iberia,Ibiza,2021,500,6
+786,Iberia,Madrid,2017,147333,1089
+787,Iberia,Madrid,2018,147994,1065
+788,Iberia,Madrid,2019,149237,1086
+789,Iberia,Madrid,2020,65774,392
+790,Iberia,Madrid,2021,132972,799
+791,Icelandair,Rejkjavik,2017,44505,200
+792,Icelandair,Rejkjavik,2018,52344,240
+793,Icelandair,Rejkjavik,2019,58026,312
+794,Icelandair,Rejkjavik,2020,24625,132
+795,Icelandair,Rejkjavik,2021,24203,139
+796,KLM-Royal Dutch Airlines,Amsterdam,2017,280804,2102
+797,KLM-Royal Dutch Airlines,Amsterdam,2018,280812,2131
+798,KLM-Royal Dutch Airlines,Amsterdam,2019,285378,2133
+799,KLM-Royal Dutch Airlines,Amsterdam,2020,145336,1084
+800,KLM-Royal Dutch Airlines,Amsterdam,2021,151452,1049
+801,Korean Air,Seoul,2017,39186,156
+802,Korean Air,Seoul,2018,40523,158
+803,Korean Air,Seoul,2019,37788,143
+804,LAUDAMOTION GMBH,Fuerteventura,2018,1260,7
+805,LAUDAMOTION GMBH,Ibiza,2018,5292,29
+806,LAUDAMOTION GMBH,Irakleion,2018,5400,30
+807,LAUDAMOTION GMBH,Lamezia Terme,2018,2835,15
+808,LAUDAMOTION GMBH,Lanzarote,2018,1260,7
+809,LAUDAMOTION GMBH,Olbia,2018,2826,15
+810,LAUDAMOTION GMBH,Palma De Mallorca,2018,26268,141
+811,LAUDAMOTION GMBH,Rhodos,2018,2700,15
+812,LOT - Polish Airlines,Warschau,2017,55498,722
+813,LOT - Polish Airlines,Warschau,2018,74170,729
+814,LOT - Polish Airlines,Warschau,2019,77489,729
+815,LOT - Polish Airlines,Warschau,2020,42810,400
+816,LOT - Polish Airlines,Warschau,2021,55471,486
+817,Lufthansa German Airlines,Frankfurt,2017,314710,2130
+818,Lufthansa German Airlines,Frankfurt,2018,318218,2133
+819,Lufthansa German Airlines,Frankfurt,2019,312130,2145
+820,Lufthansa German Airlines,Frankfurt,2020,154604,1032
+821,Lufthansa German Airlines,Frankfurt,2021,99520,868
+822,Lufthansa German Airlines,München,2017,142308,1335
+823,Lufthansa German Airlines,München,2018,145392,1369
+824,Lufthansa German Airlines,München,2019,147615,1401
+825,Lufthansa German Airlines,München,2020,83442,840
+826,Lufthansa German Airlines,München,2021,52362,577
+827,Montenegro Airlines,Podgorica,2017,22264,197
+828,Montenegro Airlines,Podgorica,2018,24048,214
+829,Montenegro Airlines,Podgorica,2019,23598,206
+830,Montenegro Airlines,Podgorica,2020,10445,93
+831,Montenegro Airlines,Podgorica,2021,109,1
+832,NIKI,Berlin,2017,368,2
+833,NIKI,Brindisi,2017,13332,64
+834,NIKI,Brindisi,2018,600,3
+835,NIKI,Faro,2017,13946,67
+836,NIKI,Faro,2018,180,1
+837,NIKI,Fuerteventura,2017,14548,70
+838,NIKI,Fuerteventura,2018,210,1
+839,NIKI,Funchal,2017,4522,23
+840,NIKI,Gran Canaria,2017,24028,118
+841,NIKI,Gran Canaria,2018,570,3
+842,NIKI,Ibiza,2017,32752,156
+843,NIKI,Irakleion,2017,21424,102
+844,NIKI,Kerkyra,2017,7388,35
+845,NIKI,Kos,2017,9540,45
+846,NIKI,Lamezia Terme,2017,11426,55
+847,NIKI,Lamezia Terme,2018,420,2
+848,NIKI,Lanzarote,2017,6858,33
+849,NIKI,Lanzarote,2018,210,1
+850,NIKI,Palma De Mallorca,2017,129332,625
+851,NIKI,Palma De Mallorca,2018,1470,7
+852,NIKI,Rhodos,2017,4876,23
+853,NIKI,Samos,2017,4664,22
+854,NIKI,Teneriffa,2017,17404,85
+855,NIKI,Teneriffa,2018,630,3
+856,NIKI,Zakinthos,2017,4632,22
+857,Oman Air,Muskat,2017,89751,353
+858,Oman Air,Muskat,2018,94915,365
+859,Oman Air,Muskat,2019,86883,365
+860,Oman Air,Muskat,2020,42211,184
+861,Oman Air,Muskat,2021,2490,11
+862,Onur Air Tasimacilik A.S.,Antalya,2018,26866,127
+863,Onur Air Tasimacilik A.S.,Antalya,2019,16474,79
+864,Onur Air Tasimacilik A.S.,Berlin,2018,876,4
+865,Onur Air Tasimacilik A.S.,Berlin,2019,180,1
+866,Onur Air Tasimacilik A.S.,Bremen,2018,420,2
+867,Onur Air Tasimacilik A.S.,Dresden,2019,360,2
+868,Onur Air Tasimacilik A.S.,Düsseldorf,2018,439,2
+869,Onur Air Tasimacilik A.S.,Genf,2018,800,4
+870,Onur Air Tasimacilik A.S.,Genf,2019,1260,7
+871,Onur Air Tasimacilik A.S.,Istanbul,2019,180,1
+872,Pegasus Airlines,Antalya,2017,189,1
+873,Pegasus Airlines,Antalya,2018,1890,10
+874,Pegasus Airlines,Antalya,2019,1116,6
+875,Pegasus Airlines,Antalya,2021,8184,44
+876,Pegasus Airlines,Istanbul,2017,68262,369
+877,Pegasus Airlines,Istanbul,2018,74184,400
+878,Pegasus Airlines,Istanbul,2019,99540,533
+879,Pegasus Airlines,Istanbul,2020,55031,296
+880,Pegasus Airlines,Istanbul,2021,82130,438
+881,Qatar Airways,Doha,2017,122182,440
+882,Qatar Airways,Doha,2018,173036,619
+883,Qatar Airways,Doha,2019,206811,730
+884,Qatar Airways,Doha,2020,126749,448
+885,Qatar Airways,Doha,2021,102502,364
+886,Royal Air Maroc,Casablanca,2017,19806,166
+887,Royal Air Maroc,Casablanca,2018,17424,144
+888,Royal Air Maroc,Casablanca,2019,14088,106
+889,Royal Air Maroc,Casablanca,2020,3231,24
+890,Royal Air Maroc,Genf,2017,318,2
+891,Royal Air Maroc,Genf,2018,1113,7
+892,Royal Air Maroc,Genf,2019,1764,13
+893,Royal Air Maroc,Genf,2020,273,2
+894,Royal Air Maroc,München,2019,159,1
+895,Royal Air Maroc,Strassburg,2018,159,1
+896,Royal Jordanian,Amman,2017,10333,89
+897,Royal Jordanian,Amman,2018,6594,56
+898,Royal Jordanian,Amman,2019,3923,31
+899,Royal Jordanian,Amman,2020,385,3
+900,Royal Jordanian,Genf,2017,6560,52
+901,Royal Jordanian,Genf,2018,10317,83
+902,Royal Jordanian,Genf,2019,12385,99
+903,Royal Jordanian,Genf,2020,2828,22
+904,Royal Jordanian,Khartum,2019,267,1
+905,SAS Scandinavian Airlines,Kopenhagen,2017,99042,662
+906,SAS Scandinavian Airlines,Kopenhagen,2018,115015,732
+907,SAS Scandinavian Airlines,Kopenhagen,2019,105045,654
+908,SAS Scandinavian Airlines,Kopenhagen,2020,47804,278
+909,SAS Scandinavian Airlines,Kopenhagen,2021,32218,266
+910,SAS Scandinavian Airlines,Oslo,2017,57623,363
+911,SAS Scandinavian Airlines,Oslo,2018,57941,363
+912,SAS Scandinavian Airlines,Oslo,2019,60215,360
+913,SAS Scandinavian Airlines,Oslo,2020,21549,126
+914,SAS Scandinavian Airlines,Oslo,2021,2136,14
+915,SAS Scandinavian Airlines,Stockholm,2017,91187,617
+916,SAS Scandinavian Airlines,Stockholm,2018,93036,574
+917,SAS Scandinavian Airlines,Stockholm,2019,87473,543
+918,SAS Scandinavian Airlines,Stockholm,2020,35802,206
+919,SAS Scandinavian Airlines,Stockholm,2021,7602,46
+920,SKYUP AIRLINES,Kiew,2020,189,1
+921,SWISS,Alicante,2017,17596,97
+922,SWISS,Alicante,2018,15909,95
+923,SWISS,Alicante,2019,14698,94
+924,SWISS,Alicante,2020,3911,24
+925,SWISS,Alicante,2021,25239,139
+926,SWISS,Amsterdam,2017,260112,1459
+927,SWISS,Amsterdam,2018,271311,1453
+928,SWISS,Amsterdam,2019,283999,1460
+929,SWISS,Amsterdam,2020,98790,593
+930,SWISS,Amsterdam,2021,72206,485
+931,SWISS,Athen,2017,213525,1010
+932,SWISS,Athen,2018,223683,1038
+933,SWISS,Athen,2019,227922,1036
+934,SWISS,Athen,2020,84954,477
+935,SWISS,Athen,2021,102875,581
+936,SWISS,Baku,2021,180,1
+937,SWISS,Bangkok,2017,121288,361
+938,SWISS,Bangkok,2018,124100,365
+939,SWISS,Bangkok,2019,124100,365
+940,SWISS,Bangkok,2020,42840,126
+941,SWISS,Bangkok,2021,47285,158
+942,SWISS,Barcelona,2017,300854,1410
+943,SWISS,Barcelona,2018,302743,1430
+944,SWISS,Barcelona,2019,299437,1407
+945,SWISS,Barcelona,2020,75096,401
+946,SWISS,Barcelona,2021,106571,610
+947,SWISS,Bari,2017,15298,124
+948,SWISS,Bari,2018,18706,123
+949,SWISS,Bari,2019,19730,120
+950,SWISS,Bari,2021,6386,40
+951,SWISS,Beirut,2021,975,7
+952,SWISS,Belgrad,2017,110951,626
+953,SWISS,Belgrad,2018,116134,668
+954,SWISS,Belgrad,2019,136648,796
+955,SWISS,Belgrad,2020,46726,303
+956,SWISS,Belgrad,2021,88879,577
+957,SWISS,Bergen,2017,2667,23
+958,SWISS,Bergen,2018,2667,22
+959,SWISS,Bergen,2019,2568,22
+960,SWISS,Berlin,2017,372944,2218
+961,SWISS,Berlin,2018,589714,3710
+962,SWISS,Berlin,2019,502146,3390
+963,SWISS,Berlin,2020,216848,1347
+964,SWISS,Berlin,2021,185987,1070
+965,SWISS,Bilbao,2017,22987,187
+966,SWISS,Bilbao,2018,27308,179
+967,SWISS,Bilbao,2019,22441,156
+968,SWISS,Bilbao,2020,4896,33
+969,SWISS,Bilbao,2021,12435,93
+970,SWISS,Billund,2021,2470,18
+971,SWISS,Birmingham,2017,72451,638
+972,SWISS,Birmingham,2018,75898,632
+973,SWISS,Birmingham,2019,75117,630
+974,SWISS,Birmingham,2020,19407,145
+975,SWISS,Birmingham,2021,4885,40
+976,SWISS,Bordeaux,2018,49266,480
+977,SWISS,Bordeaux,2019,67280,558
+978,SWISS,Bordeaux,2020,10155,75
+979,SWISS,Bordeaux,2021,16495,116
+980,SWISS,Boston,2017,107381,463
+981,SWISS,Boston,2018,107221,475
+982,SWISS,Boston,2019,111980,494
+983,SWISS,Boston,2020,22430,100
+984,SWISS,Boston,2021,36056,153
+985,SWISS,Bremen,2018,9254,109
+986,SWISS,Bremen,2019,62768,576
+987,SWISS,Bremen,2020,13821,119
+988,SWISS,Brindisi,2017,19932,118
+989,SWISS,Brindisi,2018,33044,189
+990,SWISS,Brindisi,2019,43031,256
+991,SWISS,Brindisi,2020,30376,175
+992,SWISS,Brindisi,2021,45980,252
+993,SWISS,Brüssel,2017,229939,1685
+994,SWISS,Brüssel,2018,228408,1682
+995,SWISS,Brüssel,2019,246024,1682
+996,SWISS,Brüssel,2020,72283,490
+997,SWISS,Brüssel,2021,74017,457
+998,SWISS,Budapest,2017,141382,1052
+999,SWISS,Budapest,2018,151624,1053
+1000,SWISS,Budapest,2019,153887,1043
+1001,SWISS,Budapest,2020,44261,321
+1002,SWISS,Budapest,2021,47177,345
+1003,SWISS,Bukarest,2017,55937,365
+1004,SWISS,Bukarest,2018,60298,394
+1005,SWISS,Bukarest,2019,71570,421
+1006,SWISS,Bukarest,2020,24980,175
+1007,SWISS,Bukarest,2021,52478,350
+1008,SWISS,Chicago,2017,123892,469
+1009,SWISS,Chicago,2018,132008,484
+1010,SWISS,Chicago,2019,127976,470
+1011,SWISS,Chicago,2020,43021,184
+1012,SWISS,Chicago,2021,77119,268
+1013,SWISS,Chisinau,2021,145,1
+1014,SWISS,Cork,2017,4796,36
+1015,SWISS,Cork,2018,9877,74
+1016,SWISS,Cork,2019,15189,107
+1017,SWISS,Cork,2020,500,4
+1018,SWISS,Cork,2021,2035,16
+1019,SWISS,Dar Es Salaam,2020,2715,12
+1020,SWISS,Delhi,2017,83527,354
+1021,SWISS,Delhi,2018,83189,353
+1022,SWISS,Delhi,2019,82250,349
+1023,SWISS,Delhi,2020,17700,75
+1024,SWISS,Dresden,2017,53434,523
+1025,SWISS,Dresden,2018,58993,541
+1026,SWISS,Dresden,2019,73898,599
+1027,SWISS,Dresden,2020,18117,132
+1028,SWISS,Dresden,2021,10930,93
+1029,SWISS,Dubai,2017,85196,361
+1030,SWISS,Dubai,2018,85196,361
+1031,SWISS,Dubai,2019,85196,361
+1032,SWISS,Dubai,2020,26610,110
+1033,SWISS,Dubai,2021,60922,249
+1034,SWISS,Dublin,2017,73844,362
+1035,SWISS,Dublin,2018,83179,427
+1036,SWISS,Dublin,2019,98674,546
+1037,SWISS,Dublin,2020,27807,184
+1038,SWISS,Dublin,2021,39640,259
+1039,SWISS,Düsseldorf,2017,175224,1203
+1040,SWISS,Düsseldorf,2018,278348,1864
+1041,SWISS,Düsseldorf,2019,317664,2049
+1042,SWISS,Düsseldorf,2020,88546,573
+1043,SWISS,Düsseldorf,2021,57221,411
+1044,SWISS,Figari,2017,3284,27
+1045,SWISS,Figari,2018,1797,15
+1046,SWISS,Figari,2019,3277,30
+1047,SWISS,Florenz,2017,122475,1072
+1048,SWISS,Florenz,2018,129388,1074
+1049,SWISS,Florenz,2019,125291,1060
+1050,SWISS,Florenz,2020,36262,301
+1051,SWISS,Florenz,2021,37930,329
+1052,SWISS,Frankfurt,2017,203793,1347
+1053,SWISS,Frankfurt,2018,200039,1356
+1054,SWISS,Frankfurt,2019,204376,1346
+1055,SWISS,Frankfurt,2020,77357,602
+1056,SWISS,Frankfurt,2021,99341,704
+1057,SWISS,Gdansk,2019,14549,115
+1058,SWISS,Gdansk,2021,7617,62
+1059,SWISS,Genf,2017,511909,3242
+1060,SWISS,Genf,2018,498096,2977
+1061,SWISS,Genf,2019,508639,2907
+1062,SWISS,Genf,2020,173085,1051
+1063,SWISS,Genf,2021,179524,1063
+1064,SWISS,Graz,2017,34375,313
+1065,SWISS,Graz,2018,38641,314
+1066,SWISS,Graz,2019,36604,297
+1067,SWISS,Graz,2020,8371,68
+1068,SWISS,Graz,2021,9010,71
+1069,SWISS,Göteborg,2017,38504,317
+1070,SWISS,Göteborg,2018,45758,314
+1071,SWISS,Göteborg,2019,63367,463
+1072,SWISS,Göteborg,2020,19925,138
+1073,SWISS,Göteborg,2021,26355,184
+1074,SWISS,Hamburg,2017,249118,1368
+1075,SWISS,Hamburg,2018,350342,1978
+1076,SWISS,Hamburg,2019,328850,1848
+1077,SWISS,Hamburg,2020,125757,787
+1078,SWISS,Hamburg,2021,128579,718
+1079,SWISS,Hannover,2017,181141,1343
+1080,SWISS,Hannover,2018,204603,1308
+1081,SWISS,Hannover,2019,180727,1261
+1082,SWISS,Hannover,2020,37720,291
+1083,SWISS,Hannover,2021,25664,197
+1084,SWISS,Helsinki,2017,180,1
+1085,SWISS,Heringsdorf,2019,2770,22
+1086,SWISS,Hong Kong,2017,124100,365
+1087,SWISS,Hong Kong,2018,124100,365
+1088,SWISS,Hong Kong,2019,124659,367
+1089,SWISS,Hong Kong,2020,50272,163
+1090,SWISS,Hong Kong,2021,48163,142
+1091,SWISS,Johannesburg,2017,79980,365
+1092,SWISS,Johannesburg,2018,80879,365
+1093,SWISS,Johannesburg,2019,81528,364
+1094,SWISS,Johannesburg,2020,27365,110
+1095,SWISS,Johannesburg,2021,51320,206
+1096,SWISS,Kairo,2017,35344,209
+1097,SWISS,Kairo,2018,35173,209
+1098,SWISS,Kairo,2019,36079,204
+1099,SWISS,Kairo,2020,8100,45
+1100,SWISS,Kairo,2021,22136,103
+1101,SWISS,Kiew,2018,25172,161
+1102,SWISS,Kiew,2019,39522,277
+1103,SWISS,Kiew,2020,14713,106
+1104,SWISS,Kiew,2021,42261,272
+1105,SWISS,Kittila,2017,145,1
+1106,SWISS,Kopenhagen,2017,206753,1090
+1107,SWISS,Kopenhagen,2018,214410,1090
+1108,SWISS,Kopenhagen,2019,251844,1295
+1109,SWISS,Kopenhagen,2020,72632,452
+1110,SWISS,Kopenhagen,2021,86370,522
+1111,SWISS,Krakau,2017,38353,325
+1112,SWISS,Krakau,2018,37171,305
+1113,SWISS,Krakau,2019,37850,291
+1114,SWISS,Krakau,2020,11266,86
+1115,SWISS,Krakau,2021,14524,107
+1116,SWISS,Kuusamo,2019,180,1
+1117,SWISS,Leipzig,2017,26286,261
+1118,SWISS,Leipzig,2018,24837,261
+1119,SWISS,Leipzig,2019,27773,210
+1120,SWISS,Leipzig,2020,290,2
+1121,SWISS,Lissabon,2017,93303,442
+1122,SWISS,Lissabon,2018,90212,436
+1123,SWISS,Lissabon,2019,91771,434
+1124,SWISS,Lissabon,2020,53062,301
+1125,SWISS,Lissabon,2021,71081,371
+1126,SWISS,Ljubljana,2019,8077,74
+1127,SWISS,Ljubljana,2020,8889,79
+1128,SWISS,Ljubljana,2021,14070,109
+1129,SWISS,London,2017,667818,4404
+1130,SWISS,London,2018,654175,4358
+1131,SWISS,London,2019,664765,4331
+1132,SWISS,London,2020,220735,1412
+1133,SWISS,London,2021,197235,1160
+1134,SWISS,Los Angeles,2017,124100,365
+1135,SWISS,Los Angeles,2018,124100,365
+1136,SWISS,Los Angeles,2019,124100,365
+1137,SWISS,Los Angeles,2020,24480,72
+1138,SWISS,Los Angeles,2021,43180,127
+1139,SWISS,Lugano,2017,106020,1395
+1140,SWISS,Lugano,2018,104680,1454
+1141,SWISS,Lugano,2019,55750,1115
+1142,SWISS,Luxenburg,2017,117407,991
+1143,SWISS,Luxenburg,2018,115098,987
+1144,SWISS,Luxenburg,2019,121546,986
+1145,SWISS,Luxenburg,2020,29241,225
+1146,SWISS,Luxenburg,2021,22732,189
+1147,SWISS,Lyon,2017,69222,887
+1148,SWISS,Madrid,2017,145358,999
+1149,SWISS,Madrid,2018,149821,1051
+1150,SWISS,Madrid,2019,175713,1297
+1151,SWISS,Madrid,2020,37190,266
+1152,SWISS,Madrid,2021,18658,133
+1153,SWISS,Mailand,2017,210302,1814
+1154,SWISS,Mailand,2018,217747,1737
+1155,SWISS,Mailand,2019,188129,1455
+1156,SWISS,Mailand,2020,43811,332
+1157,SWISS,Mailand,2021,28881,227
+1158,SWISS,Malaga,2017,145151,707
+1159,SWISS,Malaga,2018,146633,715
+1160,SWISS,Malaga,2019,147904,726
+1161,SWISS,Malaga,2020,49913,272
+1162,SWISS,Malaga,2021,105600,577
+1163,SWISS,Malta,2017,19993,120
+1164,SWISS,Malta,2018,19129,114
+1165,SWISS,Malta,2019,16139,102
+1166,SWISS,Malta,2020,1810,12
+1167,SWISS,Malta,2021,18316,113
+1168,SWISS,Manchester,2017,98566,694
+1169,SWISS,Manchester,2018,97378,680
+1170,SWISS,Manchester,2019,99690,732
+1171,SWISS,Manchester,2020,33014,239
+1172,SWISS,Manchester,2021,25222,187
+1173,SWISS,Marseille,2018,6536,82
+1174,SWISS,Marseille,2019,12040,111
+1175,SWISS,Marseille,2021,8390,75
+1176,SWISS,Miami,2017,140762,559
+1177,SWISS,Miami,2018,136410,541
+1178,SWISS,Miami,2019,138863,552
+1179,SWISS,Miami,2020,47422,168
+1180,SWISS,Miami,2021,46379,199
+1181,SWISS,Montreal,2017,79643,323
+1182,SWISS,Montreal,2018,75992,322
+1183,SWISS,Montreal,2019,79266,336
+1184,SWISS,Montreal,2020,31264,136
+1185,SWISS,Montreal,2021,39204,167
+1186,SWISS,Moskau,2017,130972,730
+1187,SWISS,Moskau,2018,133943,730
+1188,SWISS,Moskau,2019,130230,727
+1189,SWISS,Moskau,2020,38160,204
+1190,SWISS,Moskau,2021,49047,251
+1191,SWISS,Mumbai,2017,85343,364
+1192,SWISS,Mumbai,2018,85868,365
+1193,SWISS,Mumbai,2019,85891,364
+1194,SWISS,Mumbai,2020,18282,78
+1195,SWISS,München,2017,145912,1338
+1196,SWISS,München,2018,152178,1342
+1197,SWISS,München,2019,153913,1329
+1198,SWISS,München,2020,37105,312
+1199,SWISS,München,2021,43135,337
+1200,SWISS,Nairobi,2017,64428,273
+1201,SWISS,Nairobi,2018,65136,276
+1202,SWISS,Nairobi,2019,65608,278
+1203,SWISS,Nairobi,2020,17334,74
+1204,SWISS,Neapel,2017,39184,276
+1205,SWISS,Neapel,2018,41712,279
+1206,SWISS,Neapel,2019,46237,297
+1207,SWISS,Neapel,2020,20659,132
+1208,SWISS,Neapel,2021,40656,225
+1209,SWISS,New York,2017,172263,730
+1210,SWISS,New York,2018,172280,730
+1211,SWISS,New York,2019,169199,717
+1212,SWISS,New York,2020,84621,301
+1213,SWISS,New York,2021,107644,327
+1214,SWISS,Newark,2017,86123,365
+1215,SWISS,Newark,2018,86055,365
+1216,SWISS,Newark,2019,85450,363
+1217,SWISS,Newark,2020,56129,238
+1218,SWISS,Newark,2021,60017,258
+1219,SWISS,Nis,2017,11952,78
+1220,SWISS,Nis,2018,17247,122
+1221,SWISS,Nis,2019,14660,111
+1222,SWISS,Nis,2020,630,4
+1223,SWISS,Nis,2021,1890,14
+1224,SWISS,Nizza,2017,198593,1289
+1225,SWISS,Nizza,2018,204506,1288
+1226,SWISS,Nizza,2019,210573,1268
+1227,SWISS,Nizza,2020,61966,395
+1228,SWISS,Nizza,2021,75613,522
+1229,SWISS,Nürnberg,2017,92156,1201
+1230,SWISS,Nürnberg,2018,99033,1248
+1231,SWISS,Nürnberg,2019,129387,1240
+1232,SWISS,Nürnberg,2020,22437,194
+1233,SWISS,Nürnberg,2021,14058,101
+1234,SWISS,Osaka,2020,2453,11
+1235,SWISS,Oslo,2017,59185,453
+1236,SWISS,Oslo,2018,57074,450
+1237,SWISS,Oslo,2019,59712,447
+1238,SWISS,Oslo,2020,15900,106
+1239,SWISS,Oslo,2021,23749,159
+1240,SWISS,Palermo,2017,31241,179
+1241,SWISS,Palermo,2018,34632,183
+1242,SWISS,Palermo,2019,37388,225
+1243,SWISS,Palermo,2020,18077,101
+1244,SWISS,Palermo,2021,47017,262
+1245,SWISS,Palma De Mallorca,2017,125676,618
+1246,SWISS,Palma De Mallorca,2018,130852,647
+1247,SWISS,Palma De Mallorca,2019,153003,759
+1248,SWISS,Palma De Mallorca,2020,46695,274
+1249,SWISS,Palma De Mallorca,2021,153932,825
+1250,SWISS,Paris,2017,264964,1759
+1251,SWISS,Paris,2018,265835,1724
+1252,SWISS,Paris,2019,257394,1710
+1253,SWISS,Paris,2020,69243,456
+1254,SWISS,Paris,2021,83402,586
+1255,SWISS,Peking,2017,71312,314
+1256,SWISS,Peking,2018,73689,315
+1257,SWISS,Peking,2019,73085,311
+1258,SWISS,Peking,2020,4935,21
+1259,SWISS,Peking,2021,680,2
+1260,SWISS,Porto,2017,50355,279
+1261,SWISS,Porto,2018,56359,320
+1262,SWISS,Porto,2019,67786,390
+1263,SWISS,Porto,2020,64415,364
+1264,SWISS,Porto,2021,98573,521
+1265,SWISS,Prag,2017,159283,1051
+1266,SWISS,Prag,2018,165247,1051
+1267,SWISS,Prag,2019,170822,1047
+1268,SWISS,Prag,2020,53861,346
+1269,SWISS,Prag,2021,57862,410
+1270,SWISS,Riga,2017,219,1
+1271,SWISS,Riga,2021,215,1
+1272,SWISS,Rom,2017,206279,1136
+1273,SWISS,Rom,2018,206799,1118
+1274,SWISS,Rom,2019,200246,1095
+1275,SWISS,Rom,2020,59144,349
+1276,SWISS,Rom,2021,62361,394
+1277,SWISS,Rostov,2018,180,1
+1278,SWISS,Rovaniemi,2018,180,1
+1279,SWISS,Samara,2018,219,1
+1280,SWISS,San Francisco,2017,113717,364
+1281,SWISS,San Francisco,2018,124100,365
+1282,SWISS,San Francisco,2019,124100,365
+1283,SWISS,San Francisco,2020,37740,111
+1284,SWISS,San Francisco,2021,58820,173
+1285,SWISS,Santiago,2021,2040,6
+1286,SWISS,Santiago de Compostela,2017,14208,87
+1287,SWISS,Santiago de Compostela,2018,16362,93
+1288,SWISS,Santiago de Compostela,2019,11355,69
+1289,SWISS,Santiago de Compostela,2020,325,2
+1290,SWISS,Sao Paulo,2017,80811,369
+1291,SWISS,Sao Paulo,2018,118050,365
+1292,SWISS,Sao Paulo,2019,124100,365
+1293,SWISS,Sao Paulo,2020,59723,176
+1294,SWISS,Sao Paulo,2021,101660,299
+1295,SWISS,Sarajevo,2017,9428,93
+1296,SWISS,Sarajevo,2018,10212,93
+1297,SWISS,Sarajevo,2019,8912,60
+1298,SWISS,Sarajevo,2021,12944,88
+1299,SWISS,Shanghai,2017,79059,361
+1300,SWISS,Shanghai,2018,79167,361
+1301,SWISS,Shanghai,2019,80389,360
+1302,SWISS,Shanghai,2020,15336,56
+1303,SWISS,Shanghai,2021,16660,49
+1304,SWISS,Singapur,2017,119865,365
+1305,SWISS,Singapur,2018,124100,365
+1306,SWISS,Singapur,2019,124100,365
+1307,SWISS,Singapur,2020,52360,154
+1308,SWISS,Singapur,2021,32530,106
+1309,SWISS,Sion,2017,336,3
+1310,SWISS,Sion,2018,224,2
+1311,SWISS,Sion,2019,224,2
+1312,SWISS,Sofia,2017,12616,117
+1313,SWISS,Sofia,2021,180,1
+1314,SWISS,St. Petersburg,2017,53866,323
+1315,SWISS,St. Petersburg,2018,58930,324
+1316,SWISS,St. Petersburg,2019,57965,320
+1317,SWISS,St. Petersburg,2020,11426,65
+1318,SWISS,St. Petersburg,2021,8237,47
+1319,SWISS,Stockholm,2017,192819,1090
+1320,SWISS,Stockholm,2018,189168,1085
+1321,SWISS,Stockholm,2019,185064,1056
+1322,SWISS,Stockholm,2020,74942,486
+1323,SWISS,Stockholm,2021,90626,537
+1324,SWISS,Stuttgart,2017,142739,1728
+1325,SWISS,Stuttgart,2018,147158,1729
+1326,SWISS,Stuttgart,2019,183531,1727
+1327,SWISS,Stuttgart,2020,37143,300
+1328,SWISS,Stuttgart,2021,6898,46
+1329,SWISS,Tallinn,2021,10212,64
+1330,SWISS,Tel Aviv,2017,169896,727
+1331,SWISS,Tel Aviv,2018,178528,726
+1332,SWISS,Tel Aviv,2019,191949,727
+1333,SWISS,Tel Aviv,2020,52896,216
+1334,SWISS,Tel Aviv,2021,71797,316
+1335,SWISS,Thessaloniki,2017,25574,143
+1336,SWISS,Thessaloniki,2018,25801,139
+1337,SWISS,Thessaloniki,2019,25994,151
+1338,SWISS,Thessaloniki,2020,15697,100
+1339,SWISS,Thessaloniki,2021,31741,199
+1340,SWISS,Tiflis,2020,290,2
+1341,SWISS,Tiflis,2021,145,1
+1342,SWISS,Tirana,2021,4215,31
+1343,SWISS,Tokio,2017,79059,361
+1344,SWISS,Tokio,2018,79497,363
+1345,SWISS,Tokio,2019,80213,363
+1346,SWISS,Tokio,2020,48733,154
+1347,SWISS,Tokio,2021,41469,123
+1348,SWISS,Valencia,2017,158525,831
+1349,SWISS,Valencia,2018,157701,839
+1350,SWISS,Valencia,2019,152410,827
+1351,SWISS,Valencia,2020,41508,264
+1352,SWISS,Valencia,2021,72679,452
+1353,SWISS,Venedig,2017,145198,1071
+1354,SWISS,Venedig,2018,155773,1074
+1355,SWISS,Venedig,2019,165051,1065
+1356,SWISS,Venedig,2020,50046,307
+1357,SWISS,Venedig,2021,49975,358
+1358,SWISS,Warschau,2017,124302,1021
+1359,SWISS,Warschau,2018,127138,1008
+1360,SWISS,Warschau,2019,128362,946
+1361,SWISS,Warschau,2020,40034,285
+1362,SWISS,Warschau,2021,46220,360
+1363,SWISS,Westerland,2017,3250,26
+1364,SWISS,Westerland,2018,7901,61
+1365,SWISS,Westerland,2019,13844,102
+1366,SWISS,Westerland,2020,7950,57
+1367,SWISS,Westerland,2021,9269,74
+1368,SWISS,Wien,2017,300863,1675
+1369,SWISS,Wien,2018,311096,1752
+1370,SWISS,Wien,2019,308958,1750
+1371,SWISS,Wien,2020,99080,628
+1372,SWISS,Wien,2021,97546,669
+1373,SWISS,Wroclaw,2017,3425,27
+1374,SWISS,Wroclaw,2018,21532,166
+1375,SWISS,Wroclaw,2019,22984,175
+1376,SWISS,Wroclaw,2020,5538,44
+1377,SWISS,Wroclaw,2021,6080,52
+1378,SWISS,Zagreb,2017,11154,93
+1379,SWISS,Zagreb,2018,11084,92
+1380,SWISS,Zagreb,2019,9297,68
+1381,SWISS,Zagreb,2020,125,1
+1382,Saudi Arabian Airlines,Jeddah,2019,300,1
+1383,Sichuan Airlines,Prag,2018,16466,55
+1384,Sichuan Airlines,Prag,2019,25584,86
+1385,Singapore Airlines,Singapur,2017,138893,365
+1386,Singapore Airlines,Singapur,2018,159357,365
+1387,Singapore Airlines,Singapur,2019,171823,365
+1388,Singapore Airlines,Singapur,2020,71026,208
+1389,Singapore Airlines,Singapur,2021,90321,357
+1390,Sky Work Airlines,Elba,2017,640,20
+1391,South African Airways,Genf,2020,2053,11
+1392,South African Airways,Genf,2021,4440,24
+1393,SunExpress,Ankara,2018,2835,15
+1394,SunExpress,Ankara,2019,3024,16
+1395,SunExpress,Ankara,2020,2079,11
+1396,SunExpress,Ankara,2021,2268,12
+1397,SunExpress,Antalya,2017,65205,345
+1398,SunExpress,Antalya,2018,78255,421
+1399,SunExpress,Antalya,2019,97597,523
+1400,SunExpress,Antalya,2020,49140,260
+1401,SunExpress,Antalya,2021,74844,396
+1402,SunExpress,Gaziantep,2018,3591,19
+1403,SunExpress,Gaziantep,2019,3780,20
+1404,SunExpress,Gaziantep,2020,2457,13
+1405,SunExpress,Gaziantep,2021,3969,21
+1406,SunExpress,Izmir,2017,25704,136
+1407,SunExpress,Izmir,2018,31752,168
+1408,SunExpress,Izmir,2019,43092,228
+1409,SunExpress,Izmir,2020,24948,132
+1410,SunExpress,Izmir,2021,34209,181
+1411,SundAir,Palma De Mallorca,2018,13650,91
+1412,Surf Air Europe,London,2017,216,27
+1413,Surf Air Europe,London,2018,1848,231
+1414,Surf Air Europe,Luxenburg,2018,40,5
+1415,TAP Portugal,Lissabon,2017,175541,1055
+1416,TAP Portugal,Lissabon,2018,185352,1051
+1417,TAP Portugal,Lissabon,2019,192155,1062
+1418,TAP Portugal,Lissabon,2020,79084,463
+1419,TAP Portugal,Lissabon,2021,100742,599
+1420,TAP Portugal,Porto,2017,74648,704
+1421,TAP Portugal,Porto,2018,73600,694
+1422,TAP Portugal,Porto,2019,76316,676
+1423,TAP Portugal,Porto,2020,24648,172
+1424,TAP Portugal,Porto,2021,9108,56
+1425,TUI fly Belgium,Dubrovnik,2019,189,1
+1426,TUIfly,Irakleion,2019,189,1
+1427,TUIfly,Kos,2018,189,1
+1428,TUIfly,Patrai,2017,189,1
+1429,Thai Airways International,Bangkok,2017,125460,361
+1430,Thai Airways International,Bangkok,2018,127568,365
+1431,Thai Airways International,Bangkok,2019,127801,365
+1432,Thai Airways International,Bangkok,2020,33060,95
+1433,Thai Airways International,Bangkok,2021,2564,9
+1434,Thai Airways International,Phuket,2021,7050,25
+1435,TianJin Airlines,Wuhan,2021,230,1
+1436,Transavia.com,Amsterdam,2017,29264,176
+1437,Transavia.com,Amsterdam,2018,26935,155
+1438,Tunisair,Djerba,2017,5616,37
+1439,Tunisair,Djerba,2018,5466,39
+1440,Tunisair,Djerba,2019,8820,60
+1441,Tunisair,Djerba,2020,4464,30
+1442,Tunisair,Djerba,2021,5310,35
+1443,Tunisair,Genf,2021,316,2
+1444,Tunisair,Tunis,2017,13702,103
+1445,Tunisair,Tunis,2018,15230,102
+1446,Tunisair,Tunis,2019,15548,104
+1447,Tunisair,Tunis,2020,9124,62
+1448,Tunisair,Tunis,2021,3820,28
+1449,Turkish Airlines,Antalya,2021,21942,117
+1450,Turkish Airlines,Gaziantep,2020,807,5
+1451,Turkish Airlines,Istanbul,2017,231819,1295
+1452,Turkish Airlines,Istanbul,2018,244546,1310
+1453,Turkish Airlines,Istanbul,2019,257607,1266
+1454,Turkish Airlines,Istanbul,2020,103337,554
+1455,Turkish Airlines,Istanbul,2021,179207,916
+1456,Twin Jet,Lyon,2017,589,31
+1457,Twin Jet,Lyon,2018,13072,688
+1458,Twin Jet,Lyon,2019,7847,413
+1459,Twin Jet,Lyon,2020,3762,198
+1460,Twin Jet,Lyon,2021,684,36
+1461,Ukraine International Airlines,Kiew,2017,43080,365
+1462,Ukraine International Airlines,Kiew,2018,38692,366
+1463,Ukraine International Airlines,Kiew,2019,36986,363
+1464,Ukraine International Airlines,Kiew,2020,8472,84
+1465,United Airlines,Newark,2017,81364,342
+1466,United Airlines,Newark,2018,87798,365
+1467,United Airlines,Newark,2019,86912,365
+1468,United Airlines,Newark,2020,14028,84
+1469,United Airlines,Newark,2021,41039,232
+1470,United Airlines,San Francisco,2018,31098,142
+1471,United Airlines,San Francisco,2019,39420,180
+1472,United Airlines,Washington,2017,83150,351
+1473,United Airlines,Washington,2018,80495,364
+1474,United Airlines,Washington,2019,83472,361
+1475,United Airlines,Washington,2020,51989,235
+1476,United Airlines,Washington,2021,44719,258
+1477,VLM Airlines D.D.,Antwerpen,2018,16000,320
+1478,Vietnam Airlines,Frankfurt,2017,274,1
+1479,Vietnam Airlines,Hanoi,2017,274,1
+1480,Vietnam Airlines,Hanoi,2019,311,1
+1481,Vueling Airlines,Alicante,2017,17190,96
+1482,Vueling Airlines,Alicante,2018,17100,95
+1483,Vueling Airlines,Alicante,2019,20160,112
+1484,Vueling Airlines,Alicante,2020,3060,17
+1485,Vueling Airlines,Alicante,2021,4500,25
+1486,Vueling Airlines,Barcelona,2017,117614,655
+1487,Vueling Airlines,Barcelona,2018,118660,645
+1488,Vueling Airlines,Barcelona,2019,112956,610
+1489,Vueling Airlines,Barcelona,2020,34350,189
+1490,Vueling Airlines,Barcelona,2021,40850,211
+1491,Vueling Airlines,Gran Canaria,2017,9000,51
+1492,Vueling Airlines,Gran Canaria,2018,7920,44
+1493,Vueling Airlines,Lanzarote,2017,9000,51
+1494,Vueling Airlines,Lanzarote,2018,9372,52
+1495,Vueling Airlines,Lanzarote,2019,9438,51
+1496,Vueling Airlines,Lanzarote,2020,2626,14
+1497,Vueling Airlines,Lanzarote,2021,558,3
+1498,Vueling Airlines,Lissabon,2017,51870,294
+1499,Vueling Airlines,Lissabon,2018,40500,225
+1500,Vueling Airlines,London,2017,960,6
+1501,Vueling Airlines,Malaga,2017,25530,144
+1502,Vueling Airlines,Malaga,2018,25740,143
+1503,Vueling Airlines,Malaga,2019,23580,131
+1504,Vueling Airlines,Malaga,2020,4140,23
+1505,Vueling Airlines,Malaga,2021,5046,28
+1506,Vueling Airlines,Palma De Mallorca,2017,15660,87
+1507,Vueling Airlines,Palma De Mallorca,2018,27900,155
+1508,Vueling Airlines,Palma De Mallorca,2019,36720,204
+1509,Vueling Airlines,Palma De Mallorca,2020,8480,42
+1510,Vueling Airlines,Palma De Mallorca,2021,12612,70
+1511,Vueling Airlines,Porto,2017,26940,150
+1512,Vueling Airlines,Porto,2018,33120,184
+1513,Vueling Airlines,Prag,2017,16038,88
+1514,Vueling Airlines,Prag,2018,28032,153
+1515,Vueling Airlines,Rom,2017,42510,239
+1516,Vueling Airlines,Rom,2018,40500,225
+1517,Vueling Airlines,Rom,2019,720,4
+1518,Vueling Airlines,Santiago de Compostela,2017,10560,59
+1519,Vueling Airlines,Santiago de Compostela,2018,11340,63
+1520,Vueling Airlines,Santiago de Compostela,2019,10620,59
+1521,Vueling Airlines,Santiago de Compostela,2020,1674,9
+1522,Vueling Airlines,Santiago de Compostela,2021,4320,24
+1523,Vueling Airlines,Teneriffa,2017,7890,44
+1524,Vueling Airlines,Teneriffa,2018,7920,44
+1525,germanwings,Düsseldorf,2017,43260,290
+1526,germanwings,Hamburg,2017,48768,321
+1527,germanwings,Köln,2017,140520,967
