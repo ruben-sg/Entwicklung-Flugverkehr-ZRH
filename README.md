@@ -35,7 +35,7 @@ Andererseits habe ich mich mit Benjamin Denes unterhalten. Er ist heute Geschäf
 
 ## Datensätze/Quellen
 Zur Verwendung kamen (siehe auch [Arbeitsprotokoll, KW38-44](#kw38-44-20-september-bis-7-november-2021)):
-* Bundesamt für Statistik: [Flugpassagiere im Linien- und Charterverkehr (Monatszahlen seit 2000)](https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1107020000_102/px-x-1107020000_102/px-x-1107020000_102.px) <a href="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1107020000_102/px-x-1107020000_102/px-x-1107020000_102.px" target="_blank">Flugpassagiere im Linien- und Charterverkehr (Monatszahlen seit 2000)</a>
+* Bundesamt für Statistik: [Flugpassagiere im Linien- und Charterverkehr (Monatszahlen seit 2000)](https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1107020000_102/px-x-1107020000_102/px-x-1107020000_102.px)
 * Bundesamt für Statistik: [Flugbewegungen (Starts und Landungen) im Linien- und Charterverkehr (Monatsdaten seit 2000)](https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1107020000_101/px-x-1107020000_101/px-x-1107020000_101.px)
 * Bundesamt für Statistik: Flugpassagiere pro Destination (auf Anfrage zugestellt)
 * OAG: Angebotene Sitze und Flüge ab Zürich pro Fluggesellschaft (auf Anfrage zugestellt)
