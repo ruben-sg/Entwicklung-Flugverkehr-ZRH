@@ -44,11 +44,11 @@ Zur Verwendung kamen (siehe auch [Arbeitsprotokoll, KW38-44](#kw38-44-20-septemb
 ## Code
 Die entstandenen Jupyter Notebooks sind in den jeweiligen Schritten im Arbeitsprotokoll erwähnt. Zusammengefasst sind das:
 * [Flugpassagiere ab ZRH pro Monat seit 2000](passagiere/Flugpassagiere ab ZRH pro Monat seit 2000.ipynb)
-* [Flugbewegungen ab ZRH pro Monat seit 2000](passagiere\Flugbewegungen ab ZRH pro Monat seit 2000.ipynb) (nicht verwendet)
-* [Destinationen der Passagiere ab ZRH pro Monat seit 2018](destinationen\Destinationen.ipynb")
-* [Sitze und Flüge pro ab Zürich angeflogenem Flughafen](OAG\OAG.ipynb) (kaum verwendet, weil Städte statt Flughafen sinnvoller)
-* [Sitze und Flüge pro ab Zürich angeflogener Stadt](OAG\OAG-Städte.ipynb)
-* [Sitze und Flüge pro ab Zürich angeflogener Stadt pro Airline und mit Fokus auf die Swiss](OAG\OAG-Airlines.ipynb)
+* [Flugbewegungen ab ZRH pro Monat seit 2000](passagiere/Flugbewegungen ab ZRH pro Monat seit 2000.ipynb) (nicht verwendet)
+* [Destinationen der Passagiere ab ZRH pro Monat seit 2018](destinationen/Destinationen.ipynb)
+* [Sitze und Flüge pro ab Zürich angeflogenem Flughafen](OAG/OAG.ipynb) (kaum verwendet, weil Städte statt Flughafen sinnvoller)
+* [Sitze und Flüge pro ab Zürich angeflogener Stadt](OAG/OAG-Städte.ipynb)
+* [Sitze und Flüge pro ab Zürich angeflogener Stadt pro Airline und mit Fokus auf die Swiss](OAG/OAG-Airlines.ipynb)
 
 ## Arbeitsprotokoll
 *Im folgenden werden wochenweise Fortschritte und Entwicklungen dokumentiert. Wenn in einer Kalenderwoche nichts geschehen ist, werden Wochen auch zusammengefasst. Die Erkenntnisse aus Gesprächen und Datenanalysen werden nur ansatzweise hier wiedergegeben. Sie sind detaillierter im Artikel und den verlinkten Jupyter-Notebooks zu finden.*
