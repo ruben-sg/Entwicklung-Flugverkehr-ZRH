@@ -37,14 +37,14 @@ Andererseits habe ich mich mit Benjamin Denes unterhalten. Er ist heute Geschäf
 Zur Verwendung kamen (siehe auch [Arbeitsprotokoll, KW38-44](#kw38-44-20-september-bis-7-november-2021)):
 * Bundesamt für Statistik: [Flugpassagiere im Linien- und Charterverkehr (Monatszahlen seit 2000)](https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1107020000_102/px-x-1107020000_102/px-x-1107020000_102.px)
 * Bundesamt für Statistik: [Flugbewegungen (Starts und Landungen) im Linien- und Charterverkehr (Monatsdaten seit 2000)](https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1107020000_101/px-x-1107020000_101/px-x-1107020000_101.px)
-* Bundesamt für Statistik: Flugpassagiere pro Destination (auf Anfrage zugestellt)
-* OAG: Angebotene Sitze und Flüge ab Zürich pro Fluggesellschaft (auf Anfrage zugestellt)
+* Bundesamt für Statistik: [Flugpassagiere pro Destination (auf Anfrage zugestellt)](destinationen/wmove_wvs_2018_2021__kunde.xlsx)
+* OAG: [Angebotene Sitze und Flüge ab Zürich pro Fluggesellschaft (auf Anfrage zugestellt)](OAG/ZRH_Data.xlsx)
 * Flughafen Zürich: [provisorische Zahlen Oktober - Dezember 2021 aus Medienmitteilungen](https://www.flughafen-zuerich.ch/newsroom/?h=1&t=Medienmitteilung)
 
 ## Code
 Die entstandenen Jupyter Notebooks sind in den jeweiligen Schritten im Arbeitsprotokoll erwähnt. Zusammengefasst sind das:
-* [Flugpassagiere ab ZRH pro Monat seit 2000](passagiere/Flugpassagiere ab ZRH pro Monat seit 2000.ipynb)
-* [Flugbewegungen ab ZRH pro Monat seit 2000](passagiere/Flugbewegungen ab ZRH pro Monat seit 2000.ipynb) (nicht verwendet)
+* [Flugpassagiere ab ZRH pro Monat seit 2000](passagiere/Flugpassagiere_ab_ZRH_pro_Monat_seit_2000.ipynb)
+* [Flugbewegungen ab ZRH pro Monat seit 2000](passagiere/Flugbewegungen_ab_ZRH_pro_Monat_seit_2000.ipynb) (nicht verwendet)
 * [Destinationen der Passagiere ab ZRH pro Monat seit 2018](destinationen/Destinationen.ipynb)
 * [Sitze und Flüge pro ab Zürich angeflogenem Flughafen](OAG/OAG.ipynb) (kaum verwendet, weil Städte statt Flughafen sinnvoller)
 * [Sitze und Flüge pro ab Zürich angeflogener Stadt](OAG/OAG-Städte.ipynb)
@@ -101,7 +101,7 @@ OAG hat Daten geliefert, die für die jeweils ganzen Jahre von 2017 bis 2021 ang
 Bei der Analyse der OAG-Daten zeigt sich, dass Istanbul ebenfalls wichtiger wird. Das führt mich zur Erkenntnis, dass auch die Turkish Airlines an Bedeutung für den Flughafen Zürich gewinnt. Ich entscheide mich deshalb, zum einen Artikel einen zweiten mit einem Fokus auf die Airlines zu stellen. Die Auswertungen dafür geschehen im Notebook [OAG-Airlines](OAG\OAG-Airlines.ipynb). Beide Artikel werden in der Folge zu ca. drei Vierteln fertiggestellt.
 
 #### KW6 (7. bis 13. Februar 2022)
-Die abgeschlossenen Auswertungen lasse ich mir durch Experten und Betroffene einordnen. Die Erkenntnisse aus den Gesprächen mit dem Flughafen Zürich *, der Swiss und dem Aviatik-Experten Andres Wittmer von der Universität St.Gallen* fliessen in die beiden Artikel ein. Zudem erstellt mir die CH-Media-Infografik zwei Grafiken, die ich nicht mit den üblichen Tools selber erstellen konnte.
+Die abgeschlossenen Auswertungen lasse ich mir durch Experten und Betroffene einordnen. Die Erkenntnisse aus den Gesprächen mit dem Flughafen Zürich, einem Aviatik-Experten der Universität St.Gallen *und der Swiss* fliessen in die beiden Artikel ein. Zudem erstellt mir die CH-Media-Infografik zwei Grafiken, die ich nicht mit den üblichen Tools selber erstellen konnte.
  
 ## Ergebnis
 Entstanden sind zwei Artikel:
