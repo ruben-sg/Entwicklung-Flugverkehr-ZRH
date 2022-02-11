@@ -25,13 +25,16 @@ Entsprechend musste ich den Plan, den Stand zwei Jahre nach Pandemiebeginn zu ze
 Ich schätze den Aufwand für die Beschaffung der Daten und vor allem das erstmalige Programmieren als relativ hoch ein. Die veranschlagten fünf Tage dürften kaum ausreichen. Weil die erstellten Notebooks aber regelmässig wieder verwendet werden können, ist der Ertrag auch entsprechend hoch udn der Aufwand rechnet sich von Aktualisierung zu Aktualisierung mehr. In Anbetracht dessen, dass die Coronapandemie weiterhin andauert und die Auswirkungen uns noch lange beschäftigen werden, erscheint der Aufwand als gerechtfertigt.
 
 ## Knackpunkte
-1. Verfügbarkeit der Daten: Die Daten müssen nicht nur möglichst zeitnahe vorliegne, sondern auch genug detailliert sein, dass Aussagen zu Veränderungen getroffen werden können (eine reine Passagieranzahl ohne Destinationen würde das kaum ermöglichen)
+1. Verfügbarkeit der Daten: Die Daten müssen nicht nur möglichst zeitnahe vorliegen, sondern auch genug detailliert sein, dass Aussagen zu Veränderungen getroffen werden können (eine reine Passagieranzahl ohne Destinationen würde das kaum ermöglichen).
 2. Entwicklung der Coronapandemie: Neue Virusvarianten, geänderte Reisebestimmungen und vieles mehr. Corona ist unberechenbar, entsprechend kann die Entwicklung des Flugverkehrs auch immer wieder beeinflusst werden.
+3. Grafik: Während Passagierzahlenentwicklungen einfach mit Datawrapper und/oder Flourish erstellt werden können, sind Netzwerkkarten für die Verbindungen ab Zürich schwieriger zu erstellen. Vermutlich ist hier die Hilfe des CH-Media-Infografik-Teams nötig.
 
 ## Briefingpersonen
-Ich habe mich einerseits mit meinem Team bei CH Media ausgetauscht. Hier ging es vor allem um Fragen des Storytellings. Wir definierten, dass die Grundstruktur des Artikels bei der Entwicklung der Flugpassagierzahlen ansetzen sollte. Zwar ist der Einbruch weitgehend bekannt, aber er gehört dennoch zum kompletten Bild und dient zusammen mit einem leicht szenischen Einstieg in die Zeit zu Beginn der Pandemie als guter Eye-Catcher. Danach soll der Blick aber schnell auf neue Erkenntnisse gelegt werden.
+Ich habe mich einerseits mit meinem Team bei CH Media ausgetauscht. Hier ging es vor allem um Fragen des Storytellings. Wir definierten, dass die Grundstruktur des Artikels bei der Entwicklung der Flugpassagierzahlen ansetzen sollte. Zwar ist der Einbruch weitgehend bekannt, aber er gehört dennoch zum kompletten Bild und dient zusammen mit einem leicht szenischen Einstieg in die Zeit zu Beginn der Pandemie als guter Eye-Catcher. Danach soll der Blick aber schnell auf neue Erkenntnisse gelegt werden und insbesondere Veränderungen bezüglich der ab Zürich angeflogenen Destinationen zeigen.
 
 Andererseits habe ich mich mit Benjamin Denes unterhalten. Er ist heute Geschäftsführer bei der Electronic Media School (EMS) und war zuvor mehrere Jahre beim Spiegel tätig. Er war unter anderem Gründer von Planestream und produziert den Podcast Flugforensik. Er hat insbesondere mit Hinweisen auf mögliche Datensätze und Quellen geholfen.
+
+Schliesslich habe ich mich auch mit dem CH-Media-Infografik-Team bezüglich optischer Umsetzung ausgetauscht. Die Erstellung einer Netzwerkkarte wurde als grundsätzlich möglich erachtet.
 
 ## Datensätze/Quellen
 Zur Verwendung kamen (siehe auch [Arbeitsprotokoll, KW38-44](#kw38-44-20-september-bis-7-november-2021)):
