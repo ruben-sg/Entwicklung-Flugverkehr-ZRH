@@ -108,8 +108,8 @@ Die abgeschlossenen Auswertungen lasse ich mir durch Experten und Betroffene ein
  
 ## Ergebnis
 Entstanden sind zwei Artikel:
-* [Artikel 1](Link 1)
-* [Artikel 2](Link 2)
+* [Wenn Pristina plötzlich wichtiger ist als London: Am Flughafen Zürich wirbelt Corona die Bedeutung der Destinationen durcheinander](http://www.tagblatt.ch/ld.2245284)
+* [Corona stärkt den Ferienflugverkehr, davon profitiert Edelweiss mehr als Swiss](http://www.tagblatt.ch/ld.2247051)
 
 Beide Artikel wurden am XX. Februar 2022 veröffentlicht und gegenseitig verlinkt. Artikel 1 wurde zuerst ins Schaufenster gestellt (Top-Bereich verschiedener CH-Media-Plattformen sowie Push-Mitteilung und Posts in Sozialen Medien), Artikel 2 folgt einige Tage später.
 
