@@ -111,7 +111,7 @@ Entstanden sind zwei Artikel:
 * [Wenn Pristina plötzlich wichtiger ist als London: Am Flughafen Zürich wirbelt Corona die Bedeutung der Destinationen durcheinander](http://www.tagblatt.ch/ld.2245284)
 * [Corona stärkt den Ferienflugverkehr, davon profitiert Edelweiss mehr als Swiss](http://www.tagblatt.ch/ld.2247051)
 
-Beide Artikel wurden am XX. Februar 2022 veröffentlicht und gegenseitig verlinkt. Artikel 1 wurde zuerst ins Schaufenster gestellt (Top-Bereich verschiedener CH-Media-Plattformen sowie Push-Mitteilung und Posts in Sozialen Medien), Artikel 2 folgt einige Tage später.
+Beide Artikel wurden am 12. Februar 2022 veröffentlicht und gegenseitig verlinkt. Artikel 1 wurde zuerst ins Schaufenster gestellt (Top-Bereich verschiedener CH-Media-Plattformen sowie Push-Mitteilung und Posts in Sozialen Medien), Artikel 2 folgt einige Tage später.
 
 ## Ansätze für weitere Auswertungen und Artikel
 Die Aktualisierung der Flugpassagierzahlen lässt sich mit wenig Aufwand betreiben, sobald neue Zahlen in Stat-Tab hinterlegt sind. Für die Auswertung der Destinationen und/oder der Bedeutung der Airlines ist ein erneuter Datenbezug beim BfS oder bei OAG nötig. Kommen die Daten von dort aber in der gleichen Form, ist auch hier kaum Anpassungsbedarf vorhanden.
